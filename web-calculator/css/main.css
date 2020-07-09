@@ -1,0 +1,8 @@
+
+.row {
+  display: table;
+}
+
+.calculater-button {
+  display: table-cell;
+}

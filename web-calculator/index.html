@@ -1,0 +1,98 @@
+<!doctype html>
+<html class="no-js" lang="">
+
+<head>
+  <meta charset="utf-8">
+  <title></title>
+  <meta name="description" content="">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <meta property="og:title" content="">
+  <meta property="og:type" content="">
+  <meta property="og:url" content="">
+  <meta property="og:image" content="">
+
+  <link rel="manifest" href="site.webmanifest">
+  <link rel="apple-touch-icon" href="icon.png">
+  <!-- Place favicon.ico in the root directory -->
+
+  <link rel="stylesheet" href="css/normalize.css">
+  <link rel="stylesheet" href="css/main.css">
+
+  <meta name="theme-color" content="#fafafa">
+</head>
+
+<body>
+
+<!-- Add your site or application content here -->
+<div id="calculater-container">
+  <div id="calculater-display">
+    <form action="">
+      <label for="calculater-expression">Expression:</label><br>
+      <input type="text" id="calculater-expression" name="calculater-expression" value="">
+  </div>
+  <div id="calculater-body">
+    <div class="row">
+      <div class="calculater-button">
+        <button onclick="on_button_click()">7</button>
+      </div>
+      <div class="calculater-button">
+        <button>8</button>
+      </div>
+      <div class="calculater-button">
+        <button>9</button>
+      </div>
+      <div class="calculater-button">
+        <button>*</button>
+      </div>
+    </div>
+    <div class="row">
+      <div class="calculater-button">
+        <button>4</button>
+      </div>
+      <div class="calculater-button">
+        <button>5</button>
+      </div>
+      <div class="calculater-button">
+        <button>6</button>
+      </div>
+      <div class="calculater-button">
+        <button>+</button>
+      </div>
+    </div>
+    <div class="row">
+      <div class="calculater-button">
+        <button>1</button>
+      </div>
+      <div class="calculater-button">
+        <button>2</button>
+      </div>
+      <div class="calculater-button">
+        <button>3</button>
+      </div>
+      <div class="calculater-button">
+        <button>-</button>
+      </div>
+    </div>
+  </div>
+</div>
+<script src="js/vendor/modernizr-3.11.2.min.js"></script>
+<script src="js/plugins.js"></script>
+<script src="js/main.js"></script>
+
+<!-- Google Analytics: change UA-XXXXX-Y to be your site's ID. -->
+<script>
+  window.ga = function () {
+    ga.q.push(arguments)
+  };
+  ga.q = [];
+  ga.l = +new Date;
+  ga('create', 'UA-XXXXX-Y', 'auto');
+  ga('set', 'anonymizeIp', true);
+  ga('set', 'transport', 'beacon');
+  ga('send', 'pageview')
+</script>
+<script src="https://www.google-analytics.com/analytics.js" async></script>
+</body>
+
+</html>
