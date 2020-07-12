@@ -2,80 +2,96 @@
 <html class="no-js" lang="">
 
 <head>
-  <meta charset="utf-8">
-  <title></title>
-  <meta name="description" content="">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-
-  <meta property="og:title" content="">
-  <meta property="og:type" content="">
-  <meta property="og:url" content="">
-  <meta property="og:image" content="">
-
-  <link rel="manifest" href="site.webmanifest">
-  <link rel="apple-touch-icon" href="icon.png">
-  <!-- Place favicon.ico in the root directory -->
-
-  <link rel="stylesheet" href="css/normalize.css">
-  <link rel="stylesheet" href="css/main.css">
-
-  <meta name="theme-color" content="#fafafa">
+    <meta charset="utf-8">
+    <title>Calculator</title>
+    <link rel="stylesheet" href="css/main.css">
 </head>
 
 <body>
 
 <!-- Add your site or application content here -->
-<div id="calculater-container">
-  <div id="calculater-display">
-    <form action="">
-      <label for="calculater-expression">Expression:</label><br>
-      <input type="text" id="calculater-expression" name="calculater-expression" value="">
-  </div>
-  <div id="calculater-body">
-    <div class="row">
-      <div class="calculater-button">
-        <button onclick="on_button_click()">7</button>
-      </div>
-      <div class="calculater-button">
-        <button>8</button>
-      </div>
-      <div class="calculater-button">
-        <button>9</button>
-      </div>
-      <div class="calculater-button">
-        <button>*</button>
-      </div>
+<div id="calculator-container">
+    <div id="calculator-display">
+        <form action="">
+            <label for="calculator-expression">Expression:</label><br>
+            <input type="text" id="calculator-expression" name="calculator-expression" value="">
+        </form>
     </div>
-    <div class="row">
-      <div class="calculater-button">
-        <button>4</button>
-      </div>
-      <div class="calculater-button">
-        <button>5</button>
-      </div>
-      <div class="calculater-button">
-        <button>6</button>
-      </div>
-      <div class="calculater-button">
-        <button>+</button>
-      </div>
+    <div id="calculator-body">
+        <div class="row">
+            <div class="calculator-button">
+                <button onclick="on_start_paranthese_button_click('(')">(</button>
+            </div>
+            <div class="calculator-button">
+                <button onclick="on_end_paranthese_button_click(')')">)</button>
+            </div>
+            <div class="calculator-button">
+                <button onclick="on_sign_operator_click('')">%</button>
+            </div>
+            <div class="calculator-button">
+                <button onclick="on_delete_button_click('')">ce</button>
+            </div>
+        </div>
+        <div class="row">
+            <div class="calculator-button">
+                <button onclick="on_number_button_click('7')">7</button>
+            </div>
+            <div class="calculator-button">
+                <button onclick="on_number_button_click('8')">8</button>
+            </div>
+            <div class="calculator-button">
+                <button onclick="on_number_button_click('9')">9</button>
+            </div>
+            <div class="calculator-button">
+                <button onclick="on_sign_operator_click('/')">/</button>
+            </div>
+        </div>
+        <div class="row">
+            <div class="calculator-button">
+                <button onclick="on_number_button_click('4')">4</button>
+            </div>
+            <div class="calculator-button">
+                <button onclick="on_number_button_click('5')">5</button>
+            </div>
+            <div class="calculator-button">
+                <button onclick="on_number_button_click('6')">6</button>
+            </div>
+            <div class="calculator-button">
+                <button onclick="on_sign_operator_click('x')">x</button>
+            </div>
+        </div>
+        <div class="row">
+            <div class="calculator-button">
+                <button onclick="on_number_button_click('1')">1</button>
+            </div>
+            <div class="calculator-button">
+                <button onclick="on_number_button_click('2')">2</button>
+            </div>
+            <div class="calculator-button">
+                <button onclick="on_number_button_click('3')">3</button>
+            </div>
+            <div class="calculator-button">
+                <button onclick="on_sign_operator_click('-')">-</button>
+            </div>
+        </div>
+        <div class="row">
+            <div class="calculator-button">
+                <button onclick="on_number_button_click('0')">0</button>
+            </div>
+            <div class="calculator-button">
+                <button onclick="on_dot_button_click('.')">.</button>
+            </div>
+            <div class="calculator-button">
+                <button onclick="on_equals_button_click('')">=</button>
+            </div>
+            <div class="calculator-button">
+                <button onclick="on_sign_operator_click('+')">+</button>
+            </div>
+        </div>
     </div>
-    <div class="row">
-      <div class="calculater-button">
-        <button>1</button>
-      </div>
-      <div class="calculater-button">
-        <button>2</button>
-      </div>
-      <div class="calculater-button">
-        <button>3</button>
-      </div>
-      <div class="calculater-button">
-        <button>-</button>
-      </div>
-    </div>
-  </div>
 </div>
+
+
 <script src="js/main.js"></script>
 </body>
 
