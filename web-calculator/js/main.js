@@ -15,7 +15,14 @@ function on_end_paranthese_button_click(input) {
 }
 
 function on_sign_operator_click(input) {
-  document.getElementById("calculator-expression").value += input;
+  var expression = document.getElementById("calculator-expression").value;
+  var expression_length = expression.length;
+  if (expression_length > 0) {
+    var lastTypedCharacter = expression.slice(-1);
+    if ((lastTypedCharacter >= '0' && lastTypedCharacter <= '9') || (lastTypedCharacter === ")")) {
+      document.getElementById("calculator-expression").value += input;
+    }
+  }
 }
 
 function on_delete_button_click() {
