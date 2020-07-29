@@ -17,10 +17,10 @@ function on_number_button_click(input) {
 function on_start_paranthese_button_click() {
     var expression = document.getElementById("calculator-expression").value;
     var lastTypedChar = expression.slice(-1);
-    if (is_number(lastTypedChar) || lastTypedChar === "(" || lastTypedChar === ")") {
-        document.getElementById("calculator-expression").value += "(";
-        openParenthesis += 1;
-    }
+    // if (is_number(lastTypedChar) || lastTypedChar === "(" || lastTypedChar === ")") {
+    document.getElementById("calculator-expression").value += "(";
+    openParenthesis += 1;
+    // }
 }
 
 function on_end_paranthese_button_click(input) {
