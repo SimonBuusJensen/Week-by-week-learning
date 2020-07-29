@@ -49,7 +49,7 @@ function on_sign_operator_click(input) {
 
 function on_delete_button_click() {
     var expression = document.getElementById("calculator-expression").value;
-    if (expression.length > 0) {
+    if (expression.length > 1) {
 
         var lastTypedCharacter = expression.slice(-1);
 
@@ -62,7 +62,9 @@ function on_delete_button_click() {
 
         // Remove the last typed character
         document.getElementById("calculator-expression").value = expression.slice(0, expression.length-1);
-
+    }
+    else {
+        on_ce_button_click()
     }
 }
 
