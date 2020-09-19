@@ -1,5 +1,6 @@
 * {
     box-sizing: border-box;
+    font-family: "Roboto";
 }
 
 body {
@@ -10,28 +11,68 @@ body {
 
 header {
     background-color: #0067A3;
+    /*background-color: red;*/
     height: 45px;
 }
 
-div #home {
+#home-button-container {
     height: 100%;
     width: 50px;
-    align-content: center;
-    vertical-align: center;
-    background-color: red;
+    background-color: #0067A3;
+    float: left;
 }
 
-button {
-    padding: 5px;
+#home-button-div {
     height: 100%;
-    background-color: #0067A3;
-    border: 0;
 }
 
 #home-button {
-    padding: 0;
+    height: 80%;
+    width: 90%;
+    margin: 4px 4px;
+    border: 0;
+    border-radius: 4px;
+    outline: none;
+    background-color: #66A4C7;
+}
+
+#home-button:hover {
+    background-color: #3080bf;
+}
+
+#home-button-img {
+    padding: 2px 0 0 0;
+    height: 80%;
+    width: 80%;
+}
+
+#search-div {
     height: 100%;
+    width: 200px;
+    float: left;
+    background-color: #0067A3;
+}
+
+#search-input {
+    height: 80%;
     width: 100%;
+    margin: 4px 4px;
+
+    border: 0;
+    border-radius: 4px;
+    outline: none;
+    vertical-align: bottom;
+    background: #66A4C7 url(imgs/search.png) no-repeat 90%;
+    background-size: 12%;
+}
+
+#search-input:hover {
+    background-color: #3080bf;
+}
+
+#search-input:focus {
+    background-color: white;
+    padding-left: 5px;
 }
 
 nav {
