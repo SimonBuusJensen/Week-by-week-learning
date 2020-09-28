@@ -16,6 +16,12 @@ header {
     height: 45px;
 }
 
+nav {
+    background-color: #0079BF;
+    height: 50px;
+}
+
+
 #home-button-container {
     height: 100%;
     width: 50px;
@@ -76,19 +82,16 @@ header {
     padding-left: 5px;
 }
 
-nav {
-    background-color: #0079BF;
-    height: 40px;
-}
 
 
 #main {
     background-color: #0079BF;
     width: 100%;
     height: 1000px;
+    padding-left: 10px;
 }
 
-#list-container {
+#lists-container {
     background-color: #0079BF;
     height: 600px;
     width: 100%;
@@ -96,43 +99,59 @@ nav {
 
 .list {
     width: 300px;
-    height: 300px;
+    min-height: 80px;
+    height: auto;
     background-color: #EBECF0;
     border-radius: 5px;
     float: left;
-    margin: 0 5px;
+    margin-left: 10px;
+    margin-right: 10px;
     align-content: center;
 }
 
-.list-name {
-    margin-left: 20px;
-}
-
-.list-card {
-    width: 80%;
-    margin: 0 20px;
-    /*border: black solid 1px;*/
-    border-radius: 5px;
-    background-color: #FFFFFF;
-}
-
-
-.list-card-color {
-    height: 10px;
-    min-width: 40px;
-    max-width: 40px;
-    margin-left: 10px;
-    border-radius: 4px;
-    background-color: orange
-}
-
-.list-card-color span {
-
+.list-content {
+    margin-left: 15px;
+    margin-right: 15px;
 }
 
 .list-card-content {
-    height: auto;
-    margin: 10px;
+    height: 40px;
+    /*margin: 0 10px;*/
+    font-size: 12px;
+}
+
+
+.list-name {
+    /*margin-left: 20px;*/
+}
+
+.list-card {
+    /*width: 80%;*/
+    padding: 5px 10px;
+    margin-bottom: 10px;
+    /*border: black solid 1px;*/
+    border-radius: 5px;
+    background-color: #FFFFFF;
+    box-shadow: 2px 3px #888888;
+}
+
+.list-card-color {
+    background-color: orange;
+    min-width: 40px;
+    max-width: 40px;
+    max-height: 10px;
+    min-height: 10px;
+    float: left;
+    margin-right: 4px;
+    border-radius: 4px;
+}
+
+#111112 {
+    background-color: #66A4C7;
+}
+
+.list-card-color span {
+    font-size: 14px;
 }
 
 
@@ -140,11 +159,16 @@ h1 {
     font-size: 24px;
     font-weight: 700;
     line-height: 32px;
-    padding: 5px 15px;
+    padding: 10px 0 0 10px;
     margin: 0;
     color: white;
 }
 
 h4 {
+    margin: 10px 0;
+}
 
+h5 {
+    margin: 10px 0;
+    color: darkgrey;
 }
