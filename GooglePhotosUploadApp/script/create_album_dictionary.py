@@ -4,8 +4,8 @@ from utils import *
 IMAGE_EXTENSIONS = ["jpg", "png", "jpeg"]
 VIDEO_EXTENSION = ["mpg", "avi", "mp4", "mts", "3gp"]
 ignore_files = ["ini", "db", "dat", "tif", "thm", "ini", "bmp", "scn", "zip", "store", "mcf", "mcf~"]
-NOT_TRANSFERRED = "not_transferred"
-TRANSFERRED = "transferred"
+NOT_TRANSFERRED = "NOT_TRANSFERRED"
+TRANSFERRED = "TRANSFERRED"
 
 
 def create_album_dictionary(directory):
@@ -77,6 +77,6 @@ def create_album_dictionary(directory):
 if __name__ == '__main__':
     path_to_albums = "/media/simon/VERBATIM/Backup af billeder 14022018"
     album_dict = create_album_dictionary(path_to_albums)
-    save_fn = os.path.join(os.path.dirname(os.path.realpath(__file__)), "albums.json")
+    save_fn = os.path.join(os.path.dirname(os.path.dirname(__file__)), "data/albums.json")
     save_file = open(save_fn, "w", encoding='utf8')
     json.dump(album_dict, save_file, ensure_ascii=False)

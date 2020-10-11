@@ -3,7 +3,7 @@ import os
 import re
 
 import pandas as pd
-from create_service import service
+from create_google_service import service
 from script.create_album_dictionary import TRANSFERRED, NOT_TRANSFERRED, IMAGE_EXTENSIONS, VIDEO_EXTENSION
 
 def parse_values(values):
@@ -36,7 +36,7 @@ if __name__ == '__main__':
     print("WARNING: THIS IS RUN ON TEST ALBUMS!!!")
 
     # Read the json file with the album names
-    albums_fp = "/home/simon/Projects/Week-by-week-learning/GooglePhotosUploadApp/albums_test.json"
+    albums_fp = "/home/simon/Projects/Week-by-week-learning/GooglePhotosUploadApp/data/albums_test.json"
     albums_file = open(albums_fp, "r", encoding='utf-8')
     dict = json.load(albums_file)
 

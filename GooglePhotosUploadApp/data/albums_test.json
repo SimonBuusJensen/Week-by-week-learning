@@ -1,0 +1,48 @@
+{
+  "1 & 2 juledag 2012": {
+    "full_path": "/media/simon/VERBATIM/Backup af billeder 14022018/1 & 2 juledag 2012",
+    "images": 43,
+    "videos": 0,
+    "other": 1,
+    "status": "NOT_TRANSFERRED",
+    "extensions": [
+      "jpg",
+      "db"
+    ]
+  },
+  "1 st juledag 2007": {
+    "full_path": "/media/simon/VERBATIM/Backup af billeder 14022018/1 st juledag 2007",
+    "images": 3,
+    "videos": 0,
+    "other": 1,
+    "status": "NOT_TRANSFERRED",
+    "extensions": [
+      "jpg",
+      "db"
+    ]
+  },
+  "1 st juledag 2009": {
+    "full_path": "/media/simon/VERBATIM/Backup af billeder 14022018/1 st juledag 2009",
+    "images": 7,
+    "videos": 0,
+    "other": 1,
+    "status": "NOT_TRANSFERRED",
+    "extensions": [
+      "jpg",
+      "db"
+    ]
+  },
+  "2006-04 (apr)": {
+    "full_path": "/media/simon/VERBATIM/Backup af billeder 14022018/2006-04 (apr)",
+    "images": 2,
+    "videos": 0,
+    "other": 3,
+    "status": "NOT_TRANSFERRED",
+    "extensions": [
+      "db",
+      "dat",
+      "tif",
+      "jpg"
+    ]
+  }
+}
