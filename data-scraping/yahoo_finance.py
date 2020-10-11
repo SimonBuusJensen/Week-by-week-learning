@@ -21,8 +21,6 @@ def plot_stock_price_from_date_to_date(stock_name, from_date, to_date):
     from_date_as_dt = datetime.datetime.strptime(str(from_date), '%Y-%m-%d')
     to_date_as_dt = datetime.datetime.strptime(str(to_date), '%Y-%m-%d')
 
-
-
     sns.lineplot(dates, stock_price)
     title = str(stock_name + " " + from_date + "-" + to_date)
     plt.title(title)

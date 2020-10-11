@@ -106,6 +106,7 @@ nav {
     float: left;
     margin-left: 10px;
     margin-right: 10px;
+    margin-bottom: 10px;
     align-content: center;
 }
 
@@ -146,12 +147,18 @@ nav {
     border-radius: 4px;
 }
 
-#111112 {
-    background-color: #66A4C7;
-}
-
 .list-card-color span {
     font-size: 14px;
+}
+
+.add-card-button {
+    outline: none;
+    border: none;
+    margin: 10px 0;
+    padding: 0;
+    font-size: 16px;
+    color: darkgrey;
+
 }
 
 
@@ -169,6 +176,6 @@ h4 {
 }
 
 h5 {
-    margin: 10px 0;
     color: darkgrey;
+    margin: 0;
 }
