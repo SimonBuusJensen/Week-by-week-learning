@@ -1,13 +1,12 @@
 {
 	"1 & 2 juledag 2012": {
 		"full_path": "/home/simon/Desktop/Backup af billeder 14022018/1 & 2 juledag 2012",
-		"images": 43,
+		"images": 5,
 		"videos": 0,
-		"other": 1,
+		"other": 0,
 		"status": "TRANSFERRED",
 		"extensions": [
-			"jpg",
-			"db"
+			"jpg"
 		]
 	},
 	"1 st juledag 2007": {
@@ -29,6 +28,19 @@
 		"status": "TRANSFERRED",
 		"extensions": [
 			"jpg",
+			"db"
+		]
+	},
+	"Ferie 2007 - Kreta": {
+		"full_path": "/home/simon/Desktop/Backup af billeder 14022018/Ferie 2007 - Kreta",
+		"images": 12,
+		"videos": 4,
+		"other": 4,
+		"status": "FAILED",
+		"extensions": [
+			"jpg",
+			"mpg",
+			"thm",
 			"db"
 		]
 	}

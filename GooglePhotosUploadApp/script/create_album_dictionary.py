@@ -6,6 +6,7 @@ VIDEO_EXTENSION = ["mpg", "avi", "mp4", "mts", "3gp"]
 ignore_files = ["ini", "db", "dat", "tif", "thm", "ini", "bmp", "scn", "zip", "store", "mcf", "mcf~"]
 NOT_TRANSFERRED = "NOT_TRANSFERRED"
 TRANSFERRED = "TRANSFERRED"
+FAILED = "FAILED"
 
 
 def create_album_dictionary(directory):
@@ -77,6 +78,6 @@ def create_album_dictionary(directory):
 if __name__ == '__main__':
     path_to_albums = "/home/simon/Desktop/Backup af billeder 14022018"
     album_dict = create_album_dictionary(path_to_albums)
-    save_fn = os.path.join(os.path.dirname(os.path.dirname(__file__)), "data/albums.json")
+    save_fn = os.path.join(os.path.dirname(os.path.dirname(__file__)), "data/albums_test.json")
     save_file = open(save_fn, "w", encoding='utf8')
-    json.dump(album_dict, save_file, ensure_ascii=False)
+    json.dump(album_dict, save_file, indent="\t", ensure_ascii=False)
