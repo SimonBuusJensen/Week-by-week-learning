@@ -76,8 +76,8 @@ def create_album_dictionary(directory):
 
 
 if __name__ == '__main__':
-    path_to_albums = "/home/simon/Desktop/Backup af billeder 14022018"
+    path_to_albums = "/media/simon/VERBATIM/Backup af billeder 14022018"
     album_dict = create_album_dictionary(path_to_albums)
-    save_fn = os.path.join(os.path.dirname(os.path.dirname(__file__)), "data/albums_test.json")
+    save_fn = os.path.join(os.path.dirname(os.path.dirname(__file__)), "data/albums.json")
     save_file = open(save_fn, "w", encoding='utf8')
     json.dump(album_dict, save_file, indent="\t", ensure_ascii=False)

@@ -162,7 +162,7 @@
 		"images": 53,
 		"videos": 0,
 		"other": 1,
-		"status": "TRANSFERRED",
+		"status": "NOT_TRANSFERRED",
 		"extensions": [
 			"jpg",
 			"db"
@@ -173,7 +173,7 @@
 		"images": 10,
 		"videos": 0,
 		"other": 1,
-		"status": "TRANSFERRED",
+		"status": "NOT_TRANSFERRED",
 		"extensions": [
 			"jpg",
 			"db"
@@ -184,7 +184,7 @@
 		"images": 26,
 		"videos": 2,
 		"other": 2,
-		"status": "TRANSFERRED",
+		"status": "NOT_TRANSFERRED",
 		"extensions": [
 			"jpg",
 			"mpg",
@@ -197,7 +197,7 @@
 		"images": 17,
 		"videos": 0,
 		"other": 1,
-		"status": "TRANSFERRED",
+		"status": "NOT_TRANSFERRED",
 		"extensions": [
 			"jpg",
 			"db"
@@ -208,7 +208,7 @@
 		"images": 95,
 		"videos": 0,
 		"other": 1,
-		"status": "TRANSFERRED",
+		"status": "NOT_TRANSFERRED",
 		"extensions": [
 			"jpg",
 			"db"
@@ -219,7 +219,7 @@
 		"images": 33,
 		"videos": 0,
 		"other": 1,
-		"status": "TRANSFERRED",
+		"status": "NOT_TRANSFERRED",
 		"extensions": [
 			"jpg",
 			"db"
@@ -230,7 +230,7 @@
 		"images": 55,
 		"videos": 0,
 		"other": 1,
-		"status": "TRANSFERRED",
+		"status": "NOT_TRANSFERRED",
 		"extensions": [
 			"jpg",
 			"db"
@@ -241,7 +241,7 @@
 		"images": 20,
 		"videos": 0,
 		"other": 1,
-		"status": "TRANSFERRED",
+		"status": "NOT_TRANSFERRED",
 		"extensions": [
 			"jpg",
 			"db"
@@ -252,7 +252,7 @@
 		"images": 52,
 		"videos": 0,
 		"other": 1,
-		"status": "TRANSFERRED",
+		"status": "NOT_TRANSFERRED",
 		"extensions": [
 			"jpg",
 			"db"
@@ -263,7 +263,7 @@
 		"images": 128,
 		"videos": 0,
 		"other": 1,
-		"status": "FAILED",
+		"status": "NOT_TRANSFERRED",
 		"extensions": [
 			"jpg",
 			"db"
@@ -274,7 +274,7 @@
 		"images": 76,
 		"videos": 0,
 		"other": 1,
-		"status": "TRANSFERRED",
+		"status": "NOT_TRANSFERRED",
 		"extensions": [
 			"jpg",
 			"db"
@@ -285,7 +285,7 @@
 		"images": 8,
 		"videos": 0,
 		"other": 1,
-		"status": "TRANSFERRED",
+		"status": "NOT_TRANSFERRED",
 		"extensions": [
 			"jpg",
 			"db"
@@ -296,7 +296,7 @@
 		"images": 27,
 		"videos": 0,
 		"other": 1,
-		"status": "TRANSFERRED",
+		"status": "NOT_TRANSFERRED",
 		"extensions": [
 			"jpg",
 			"db"
@@ -307,7 +307,7 @@
 		"images": 37,
 		"videos": 0,
 		"other": 1,
-		"status": "TRANSFERRED",
+		"status": "NOT_TRANSFERRED",
 		"extensions": [
 			"jpg",
 			"db"
@@ -318,7 +318,7 @@
 		"images": 34,
 		"videos": 0,
 		"other": 1,
-		"status": "TRANSFERRED",
+		"status": "NOT_TRANSFERRED",
 		"extensions": [
 			"jpg",
 			"db"
@@ -329,7 +329,7 @@
 		"images": 58,
 		"videos": 0,
 		"other": 2,
-		"status": "TRANSFERRED",
+		"status": "NOT_TRANSFERRED",
 		"extensions": [
 			"jpg",
 			"ini",
@@ -341,7 +341,7 @@
 		"images": 24,
 		"videos": 0,
 		"other": 1,
-		"status": "TRANSFERRED",
+		"status": "NOT_TRANSFERRED",
 		"extensions": [
 			"jpg",
 			"db"
@@ -352,7 +352,7 @@
 		"images": 71,
 		"videos": 0,
 		"other": 1,
-		"status": "TRANSFERRED",
+		"status": "NOT_TRANSFERRED",
 		"extensions": [
 			"jpg",
 			"db"
@@ -363,7 +363,7 @@
 		"images": 74,
 		"videos": 0,
 		"other": 1,
-		"status": "TRANSFERRED",
+		"status": "NOT_TRANSFERRED",
 		"extensions": [
 			"jpg",
 			"db"
@@ -374,7 +374,7 @@
 		"images": 129,
 		"videos": 1,
 		"other": 2,
-		"status": "TRANSFERRED",
+		"status": "NOT_TRANSFERRED",
 		"extensions": [
 			"jpg",
 			"mpg",
@@ -387,7 +387,7 @@
 		"images": 157,
 		"videos": 0,
 		"other": 1,
-		"status": "TRANSFERRED",
+		"status": "NOT_TRANSFERRED",
 		"extensions": [
 			"jpg",
 			"db"
@@ -398,7 +398,7 @@
 		"images": 140,
 		"videos": 1,
 		"other": 2,
-		"status": "TRANSFERRED",
+		"status": "NOT_TRANSFERRED",
 		"extensions": [
 			"jpg",
 			"avi",
@@ -411,7 +411,7 @@
 		"images": 136,
 		"videos": 0,
 		"other": 1,
-		"status": "TRANSFERRED",
+		"status": "NOT_TRANSFERRED",
 		"extensions": [
 			"jpg",
 			"db"
@@ -422,7 +422,7 @@
 		"images": 29,
 		"videos": 0,
 		"other": 1,
-		"status": "TRANSFERRED",
+		"status": "NOT_TRANSFERRED",
 		"extensions": [
 			"jpg",
 			"db"
@@ -433,7 +433,7 @@
 		"images": 31,
 		"videos": 0,
 		"other": 1,
-		"status": "TRANSFERRED",
+		"status": "NOT_TRANSFERRED",
 		"extensions": [
 			"jpg",
 			"db"
@@ -444,7 +444,7 @@
 		"images": 87,
 		"videos": 0,
 		"other": 1,
-		"status": "FAILED",
+		"status": "NOT_TRANSFERRED",
 		"extensions": [
 			"jpg",
 			"db"
@@ -455,7 +455,7 @@
 		"images": 27,
 		"videos": 0,
 		"other": 1,
-		"status": "TRANSFERRED",
+		"status": "NOT_TRANSFERRED",
 		"extensions": [
 			"jpg",
 			"db"
@@ -466,7 +466,7 @@
 		"images": 5,
 		"videos": 0,
 		"other": 0,
-		"status": "TRANSFERRED",
+		"status": "NOT_TRANSFERRED",
 		"extensions": [
 			"jpg"
 		]

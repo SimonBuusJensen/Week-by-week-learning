@@ -1,0 +1,148 @@
+/home/simon/.pyenv/versions/week-by-week/bin/python3 /home/simon/Projects/Week-by-week-learning/GooglePhotosUploadApp/create_albums_custom.py
+data/client_secret.json-photoslibrary-v1-(['https://www.googleapis.com/auth/photoslibrary.sharing', 'https://www.googleapis.com/auth/photoslibrary'],)
+photoslibrary service created successfully
+1 & 2 juledag 2012 is already transferred
+1 st juledag 2007 is already transferred
+1 st juledag 2009 is already transferred
+2006-04 (apr) is already transferred
+Aalborg mesterskab 09 is already transferred
+Processing album: Afslutning Triton 2011
+Processing media item (1/88: /media/simon/VERBATIM/Backup af billeder 14022018/Afslutning Triton 2011/DSC01208.JPG
+Total uploaded: 1
+Processing media item (2/88: /media/simon/VERBATIM/Backup af billeder 14022018/Afslutning Triton 2011/DSC01209.JPG
+Total uploaded: 2
+Processing media item (3/88: /media/simon/VERBATIM/Backup af billeder 14022018/Afslutning Triton 2011/DSC01210.JPG
+Total uploaded: 3
+Processing media item (4/88: /media/simon/VERBATIM/Backup af billeder 14022018/Afslutning Triton 2011/DSC01211.JPG
+Total uploaded: 4
+Processing media item (5/88: /media/simon/VERBATIM/Backup af billeder 14022018/Afslutning Triton 2011/DSC01212.JPG
+Total uploaded: 5
+Processing media item (6/88: /media/simon/VERBATIM/Backup af billeder 14022018/Afslutning Triton 2011/DSC01213.JPG
+Total uploaded: 6
+Processing media item (7/88: /media/simon/VERBATIM/Backup af billeder 14022018/Afslutning Triton 2011/DSC01214.JPG
+Total uploaded: 7
+Processing media item (8/88: /media/simon/VERBATIM/Backup af billeder 14022018/Afslutning Triton 2011/DSC01215.JPG
+Total uploaded: 8
+Processing media item (9/88: /media/simon/VERBATIM/Backup af billeder 14022018/Afslutning Triton 2011/DSC01216.JPG
+Total uploaded: 9
+Processing media item (10/88: /media/simon/VERBATIM/Backup af billeder 14022018/Afslutning Triton 2011/DSC01217.JPG
+Total uploaded: 10
+Processing media item (11/88: /media/simon/VERBATIM/Backup af billeder 14022018/Afslutning Triton 2011/DSC01218.JPG
+Total uploaded: 11
+Processing media item (12/88: /media/simon/VERBATIM/Backup af billeder 14022018/Afslutning Triton 2011/DSC01219.JPG
+Total uploaded: 12
+Processing media item (13/88: /media/simon/VERBATIM/Backup af billeder 14022018/Afslutning Triton 2011/DSC01220.JPG
+Total uploaded: 13
+Processing media item (14/88: /media/simon/VERBATIM/Backup af billeder 14022018/Afslutning Triton 2011/DSC01221.JPG
+Total uploaded: 14
+Processing media item (15/88: /media/simon/VERBATIM/Backup af billeder 14022018/Afslutning Triton 2011/DSC01222.JPG
+Total uploaded: 15
+Processing media item (16/88: /media/simon/VERBATIM/Backup af billeder 14022018/Afslutning Triton 2011/DSC01223.JPG
+Total uploaded: 16
+Processing media item (17/88: /media/simon/VERBATIM/Backup af billeder 14022018/Afslutning Triton 2011/DSC01224.JPG
+Total uploaded: 17
+Processing media item (18/88: /media/simon/VERBATIM/Backup af billeder 14022018/Afslutning Triton 2011/DSC01225.JPG
+Total uploaded: 18
+Processing media item (19/88: /media/simon/VERBATIM/Backup af billeder 14022018/Afslutning Triton 2011/DSC01226.JPG
+Total uploaded: 19
+Processing media item (20/88: /media/simon/VERBATIM/Backup af billeder 14022018/Afslutning Triton 2011/DSC01227.JPG
+Total uploaded: 20
+Processing media item (21/88: /media/simon/VERBATIM/Backup af billeder 14022018/Afslutning Triton 2011/DSC01228.JPG
+Total uploaded: 21
+Processing media item (22/88: /media/simon/VERBATIM/Backup af billeder 14022018/Afslutning Triton 2011/DSC01229.JPG
+Total uploaded: 22
+Processing media item (23/88: /media/simon/VERBATIM/Backup af billeder 14022018/Afslutning Triton 2011/DSC01230.JPG
+Total uploaded: 23
+Processing media item (24/88: /media/simon/VERBATIM/Backup af billeder 14022018/Afslutning Triton 2011/DSC01231.JPG
+Total uploaded: 24
+Processing media item (25/88: /media/simon/VERBATIM/Backup af billeder 14022018/Afslutning Triton 2011/DSC01232.JPG
+Total uploaded: 25
+Processing media item (26/88: /media/simon/VERBATIM/Backup af billeder 14022018/Afslutning Triton 2011/DSC01233.JPG
+Total uploaded: 26
+Processing media item (27/88: /media/simon/VERBATIM/Backup af billeder 14022018/Afslutning Triton 2011/DSC01234.JPG
+Total uploaded: 27
+Processing media item (28/88: /media/simon/VERBATIM/Backup af billeder 14022018/Afslutning Triton 2011/DSC01235.JPG
+Total uploaded: 28
+Processing media item (29/88: /media/simon/VERBATIM/Backup af billeder 14022018/Afslutning Triton 2011/DSC01236.JPG
+Total uploaded: 29
+Processing media item (30/88: /media/simon/VERBATIM/Backup af billeder 14022018/Afslutning Triton 2011/DSC01237.JPG
+Total uploaded: 30
+Processing media item (31/88: /media/simon/VERBATIM/Backup af billeder 14022018/Afslutning Triton 2011/DSC01238.JPG
+Total uploaded: 31
+Processing media item (32/88: /media/simon/VERBATIM/Backup af billeder 14022018/Afslutning Triton 2011/DSC01239.JPG
+Total uploaded: 32
+Processing media item (33/88: /media/simon/VERBATIM/Backup af billeder 14022018/Afslutning Triton 2011/DSC01240.JPG
+Total uploaded: 33
+Processing media item (34/88: /media/simon/VERBATIM/Backup af billeder 14022018/Afslutning Triton 2011/DSC01241.JPG
+Total uploaded: 34
+Processing media item (35/88: /media/simon/VERBATIM/Backup af billeder 14022018/Afslutning Triton 2011/DSC01242.JPG
+Total uploaded: 35
+Processing media item (36/88: /media/simon/VERBATIM/Backup af billeder 14022018/Afslutning Triton 2011/DSC01243.JPG
+Total uploaded: 36
+Processing media item (37/88: /media/simon/VERBATIM/Backup af billeder 14022018/Afslutning Triton 2011/DSC01244.JPG
+Total uploaded: 37
+Processing media item (38/88: /media/simon/VERBATIM/Backup af billeder 14022018/Afslutning Triton 2011/DSC01245.JPG
+Total uploaded: 38
+Processing media item (39/88: /media/simon/VERBATIM/Backup af billeder 14022018/Afslutning Triton 2011/DSC01246.JPG
+Total uploaded: 39
+Processing media item (40/88: /media/simon/VERBATIM/Backup af billeder 14022018/Afslutning Triton 2011/DSC01247.JPG
+Total uploaded: 40
+Processing media item (41/88: /media/simon/VERBATIM/Backup af billeder 14022018/Afslutning Triton 2011/DSC01248.JPG
+Total uploaded: 41
+Processing media item (42/88: /media/simon/VERBATIM/Backup af billeder 14022018/Afslutning Triton 2011/DSC01249.JPG
+Total uploaded: 42
+Processing media item (43/88: /media/simon/VERBATIM/Backup af billeder 14022018/Afslutning Triton 2011/DSC01250.JPG
+Total uploaded: 43
+Processing media item (44/88: /media/simon/VERBATIM/Backup af billeder 14022018/Afslutning Triton 2011/DSC01251.JPG
+Traceback (most recent call last):
+  File "/home/simon/.pyenv/versions/week-by-week/lib/python3.6/site-packages/urllib3/connectionpool.py", line 677, in urlopen
+    chunked=chunked,
+  File "/home/simon/.pyenv/versions/week-by-week/lib/python3.6/site-packages/urllib3/connectionpool.py", line 381, in _make_request
+    self._validate_conn(conn)
+  File "/home/simon/.pyenv/versions/week-by-week/lib/python3.6/site-packages/urllib3/connectionpool.py", line 978, in _validate_conn
+    conn.connect()
+  File "/home/simon/.pyenv/versions/week-by-week/lib/python3.6/site-packages/urllib3/connection.py", line 371, in connect
+    ssl_context=context,
+  File "/home/simon/.pyenv/versions/week-by-week/lib/python3.6/site-packages/urllib3/util/ssl_.py", line 384, in ssl_wrap_socket
+    return context.wrap_socket(sock, server_hostname=server_hostname)
+  File "/home/simon/.pyenv/versions/3.6.7/lib/python3.6/ssl.py", line 407, in wrap_socket
+    _context=self, _session=session)
+  File "/home/simon/.pyenv/versions/3.6.7/lib/python3.6/ssl.py", line 817, in __init__
+    self.do_handshake()
+  File "/home/simon/.pyenv/versions/3.6.7/lib/python3.6/ssl.py", line 1077, in do_handshake
+    self._sslobj.do_handshake()
+  File "/home/simon/.pyenv/versions/3.6.7/lib/python3.6/ssl.py", line 689, in do_handshake
+    self._sslobj.do_handshake()
+ssl.SSLEOFError: EOF occurred in violation of protocol (_ssl.c:847)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/simon/.pyenv/versions/week-by-week/lib/python3.6/site-packages/requests/adapters.py", line 449, in send
+    timeout=timeout
+  File "/home/simon/.pyenv/versions/week-by-week/lib/python3.6/site-packages/urllib3/connectionpool.py", line 727, in urlopen
+    method, url, error=e, _pool=self, _stacktrace=sys.exc_info()[2]
+  File "/home/simon/.pyenv/versions/week-by-week/lib/python3.6/site-packages/urllib3/util/retry.py", line 439, in increment
+    raise MaxRetryError(_pool, url, error or ResponseError(cause))
+urllib3.exceptions.MaxRetryError: HTTPSConnectionPool(host='photoslibrary.googleapis.com', port=443): Max retries exceeded with url: /v1/uploads (Caused by SSLError(SSLEOFError(8, 'EOF occurred in violation of protocol (_ssl.c:847)'),))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/simon/Projects/Week-by-week-learning/GooglePhotosUploadApp/create_albums_custom.py", line 151, in <module>
+    upload_file(file, album_id, credentials=credentials)
+  File "/home/simon/Projects/Week-by-week-learning/GooglePhotosUploadApp/create_albums_custom.py", line 78, in upload_file
+    response = requests.post(url, headers=headers, data=image_file)
+  File "/home/simon/.pyenv/versions/week-by-week/lib/python3.6/site-packages/requests/api.py", line 119, in post
+    return request('post', url, data=data, json=json, **kwargs)
+  File "/home/simon/.pyenv/versions/week-by-week/lib/python3.6/site-packages/requests/api.py", line 61, in request
+    return session.request(method=method, url=url, **kwargs)
+  File "/home/simon/.pyenv/versions/week-by-week/lib/python3.6/site-packages/requests/sessions.py", line 530, in request
+    resp = self.send(prep, **send_kwargs)
+  File "/home/simon/.pyenv/versions/week-by-week/lib/python3.6/site-packages/requests/sessions.py", line 643, in send
+    r = adapter.send(request, **kwargs)
+  File "/home/simon/.pyenv/versions/week-by-week/lib/python3.6/site-packages/requests/adapters.py", line 514, in send
+    raise SSLError(e, request=request)
+requests.exceptions.SSLError: HTTPSConnectionPool(host='photoslibrary.googleapis.com', port=443): Max retries exceeded with url: /v1/uploads (Caused by SSLError(SSLEOFError(8, 'EOF occurred in violation of protocol (_ssl.c:847)'),))
+
+Process finished with exit code 1

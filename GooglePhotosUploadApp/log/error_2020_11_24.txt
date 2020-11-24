@@ -1,0 +1,1905 @@
+/home/simon/.pyenv/versions/week-by-week/bin/python3 /home/simon/Projects/Week-by-week-learning/GooglePhotosUploadApp/create_albums_custom.py
+data/client_secret.json-photoslibrary-v1-(['https://www.googleapis.com/auth/photoslibrary.sharing', 'https://www.googleapis.com/auth/photoslibrary'],)
+photoslibrary service created successfully
+1 & 2 juledag 2012 is already transferred
+1 st juledag 2007 is already transferred
+1 st juledag 2009 is already transferred
+2006-04 (apr) is already transferred
+Aalborg mesterskab 09 is already transferred
+Processing album: Afslutning Triton 2011
+Processing media item (1/88: /media/simon/VERBATIM/Backup af billeder 14022018/Afslutning Triton 2011/DSC01208.JPG
+Total uploaded: 1
+Processing media item (2/88: /media/simon/VERBATIM/Backup af billeder 14022018/Afslutning Triton 2011/DSC01209.JPG
+Total uploaded: 2
+Processing media item (3/88: /media/simon/VERBATIM/Backup af billeder 14022018/Afslutning Triton 2011/DSC01210.JPG
+Total uploaded: 3
+Processing media item (4/88: /media/simon/VERBATIM/Backup af billeder 14022018/Afslutning Triton 2011/DSC01211.JPG
+Total uploaded: 4
+Processing media item (5/88: /media/simon/VERBATIM/Backup af billeder 14022018/Afslutning Triton 2011/DSC01212.JPG
+Total uploaded: 5
+Processing media item (6/88: /media/simon/VERBATIM/Backup af billeder 14022018/Afslutning Triton 2011/DSC01213.JPG
+Total uploaded: 6
+Processing media item (7/88: /media/simon/VERBATIM/Backup af billeder 14022018/Afslutning Triton 2011/DSC01214.JPG
+Total uploaded: 7
+Processing media item (8/88: /media/simon/VERBATIM/Backup af billeder 14022018/Afslutning Triton 2011/DSC01215.JPG
+Total uploaded: 8
+Processing media item (9/88: /media/simon/VERBATIM/Backup af billeder 14022018/Afslutning Triton 2011/DSC01216.JPG
+Total uploaded: 9
+Processing media item (10/88: /media/simon/VERBATIM/Backup af billeder 14022018/Afslutning Triton 2011/DSC01217.JPG
+Total uploaded: 10
+Processing media item (11/88: /media/simon/VERBATIM/Backup af billeder 14022018/Afslutning Triton 2011/DSC01218.JPG
+Total uploaded: 11
+Processing media item (12/88: /media/simon/VERBATIM/Backup af billeder 14022018/Afslutning Triton 2011/DSC01219.JPG
+Total uploaded: 12
+Processing media item (13/88: /media/simon/VERBATIM/Backup af billeder 14022018/Afslutning Triton 2011/DSC01220.JPG
+Total uploaded: 13
+Processing media item (14/88: /media/simon/VERBATIM/Backup af billeder 14022018/Afslutning Triton 2011/DSC01221.JPG
+Total uploaded: 14
+Processing media item (15/88: /media/simon/VERBATIM/Backup af billeder 14022018/Afslutning Triton 2011/DSC01222.JPG
+Total uploaded: 15
+Processing media item (16/88: /media/simon/VERBATIM/Backup af billeder 14022018/Afslutning Triton 2011/DSC01223.JPG
+Total uploaded: 16
+Processing media item (17/88: /media/simon/VERBATIM/Backup af billeder 14022018/Afslutning Triton 2011/DSC01224.JPG
+Total uploaded: 17
+Processing media item (18/88: /media/simon/VERBATIM/Backup af billeder 14022018/Afslutning Triton 2011/DSC01225.JPG
+Total uploaded: 18
+Processing media item (19/88: /media/simon/VERBATIM/Backup af billeder 14022018/Afslutning Triton 2011/DSC01226.JPG
+Total uploaded: 19
+Processing media item (20/88: /media/simon/VERBATIM/Backup af billeder 14022018/Afslutning Triton 2011/DSC01227.JPG
+Total uploaded: 20
+Processing media item (21/88: /media/simon/VERBATIM/Backup af billeder 14022018/Afslutning Triton 2011/DSC01228.JPG
+Total uploaded: 21
+Processing media item (22/88: /media/simon/VERBATIM/Backup af billeder 14022018/Afslutning Triton 2011/DSC01229.JPG
+Total uploaded: 22
+Processing media item (23/88: /media/simon/VERBATIM/Backup af billeder 14022018/Afslutning Triton 2011/DSC01230.JPG
+Total uploaded: 23
+Processing media item (24/88: /media/simon/VERBATIM/Backup af billeder 14022018/Afslutning Triton 2011/DSC01231.JPG
+Total uploaded: 24
+Processing media item (25/88: /media/simon/VERBATIM/Backup af billeder 14022018/Afslutning Triton 2011/DSC01232.JPG
+Total uploaded: 25
+Processing media item (26/88: /media/simon/VERBATIM/Backup af billeder 14022018/Afslutning Triton 2011/DSC01233.JPG
+Total uploaded: 26
+Processing media item (27/88: /media/simon/VERBATIM/Backup af billeder 14022018/Afslutning Triton 2011/DSC01234.JPG
+Total uploaded: 27
+Processing media item (28/88: /media/simon/VERBATIM/Backup af billeder 14022018/Afslutning Triton 2011/DSC01235.JPG
+Total uploaded: 28
+Processing media item (29/88: /media/simon/VERBATIM/Backup af billeder 14022018/Afslutning Triton 2011/DSC01236.JPG
+Total uploaded: 29
+Processing media item (30/88: /media/simon/VERBATIM/Backup af billeder 14022018/Afslutning Triton 2011/DSC01237.JPG
+Total uploaded: 30
+Processing media item (31/88: /media/simon/VERBATIM/Backup af billeder 14022018/Afslutning Triton 2011/DSC01238.JPG
+Total uploaded: 31
+Processing media item (32/88: /media/simon/VERBATIM/Backup af billeder 14022018/Afslutning Triton 2011/DSC01239.JPG
+Total uploaded: 32
+Processing media item (33/88: /media/simon/VERBATIM/Backup af billeder 14022018/Afslutning Triton 2011/DSC01240.JPG
+Total uploaded: 33
+Processing media item (34/88: /media/simon/VERBATIM/Backup af billeder 14022018/Afslutning Triton 2011/DSC01241.JPG
+Total uploaded: 34
+Processing media item (35/88: /media/simon/VERBATIM/Backup af billeder 14022018/Afslutning Triton 2011/DSC01242.JPG
+Total uploaded: 35
+Processing media item (36/88: /media/simon/VERBATIM/Backup af billeder 14022018/Afslutning Triton 2011/DSC01243.JPG
+Total uploaded: 36
+Processing media item (37/88: /media/simon/VERBATIM/Backup af billeder 14022018/Afslutning Triton 2011/DSC01244.JPG
+Total uploaded: 37
+Processing media item (38/88: /media/simon/VERBATIM/Backup af billeder 14022018/Afslutning Triton 2011/DSC01245.JPG
+Total uploaded: 38
+Processing media item (39/88: /media/simon/VERBATIM/Backup af billeder 14022018/Afslutning Triton 2011/DSC01246.JPG
+Total uploaded: 39
+Processing media item (40/88: /media/simon/VERBATIM/Backup af billeder 14022018/Afslutning Triton 2011/DSC01247.JPG
+Total uploaded: 40
+Processing media item (41/88: /media/simon/VERBATIM/Backup af billeder 14022018/Afslutning Triton 2011/DSC01248.JPG
+Total uploaded: 41
+Processing media item (42/88: /media/simon/VERBATIM/Backup af billeder 14022018/Afslutning Triton 2011/DSC01249.JPG
+Total uploaded: 42
+Processing media item (43/88: /media/simon/VERBATIM/Backup af billeder 14022018/Afslutning Triton 2011/DSC01250.JPG
+Total uploaded: 43
+Processing media item (44/88: /media/simon/VERBATIM/Backup af billeder 14022018/Afslutning Triton 2011/DSC01251.JPG
+Total uploaded: 44
+Processing media item (45/88: /media/simon/VERBATIM/Backup af billeder 14022018/Afslutning Triton 2011/DSC01252.JPG
+Total uploaded: 45
+Processing media item (46/88: /media/simon/VERBATIM/Backup af billeder 14022018/Afslutning Triton 2011/DSC01253.JPG
+Total uploaded: 46
+Processing media item (47/88: /media/simon/VERBATIM/Backup af billeder 14022018/Afslutning Triton 2011/DSC01254.JPG
+Total uploaded: 47
+Processing media item (48/88: /media/simon/VERBATIM/Backup af billeder 14022018/Afslutning Triton 2011/DSC01255.JPG
+Total uploaded: 48
+Processing media item (49/88: /media/simon/VERBATIM/Backup af billeder 14022018/Afslutning Triton 2011/DSC01256.JPG
+Total uploaded: 49
+Processing media item (50/88: /media/simon/VERBATIM/Backup af billeder 14022018/Afslutning Triton 2011/DSC01257.JPG
+Total uploaded: 50
+Processing media item (51/88: /media/simon/VERBATIM/Backup af billeder 14022018/Afslutning Triton 2011/DSC01258.JPG
+Total uploaded: 51
+Processing media item (52/88: /media/simon/VERBATIM/Backup af billeder 14022018/Afslutning Triton 2011/DSC01259.JPG
+Total uploaded: 52
+Processing media item (53/88: /media/simon/VERBATIM/Backup af billeder 14022018/Afslutning Triton 2011/DSC01260.JPG
+Total uploaded: 53
+Processing media item (54/88: /media/simon/VERBATIM/Backup af billeder 14022018/Afslutning Triton 2011/DSC01261.JPG
+Total uploaded: 54
+Processing media item (55/88: /media/simon/VERBATIM/Backup af billeder 14022018/Afslutning Triton 2011/DSC01262.JPG
+Total uploaded: 55
+Processing media item (56/88: /media/simon/VERBATIM/Backup af billeder 14022018/Afslutning Triton 2011/DSC01263.JPG
+Total uploaded: 56
+Processing media item (57/88: /media/simon/VERBATIM/Backup af billeder 14022018/Afslutning Triton 2011/DSC01264.JPG
+Total uploaded: 57
+Processing media item (58/88: /media/simon/VERBATIM/Backup af billeder 14022018/Afslutning Triton 2011/DSC01265.JPG
+Total uploaded: 58
+Processing media item (59/88: /media/simon/VERBATIM/Backup af billeder 14022018/Afslutning Triton 2011/DSC01266.JPG
+Total uploaded: 59
+Processing media item (60/88: /media/simon/VERBATIM/Backup af billeder 14022018/Afslutning Triton 2011/DSC01267.JPG
+Total uploaded: 60
+Processing media item (61/88: /media/simon/VERBATIM/Backup af billeder 14022018/Afslutning Triton 2011/DSC01268.JPG
+Total uploaded: 61
+Processing media item (62/88: /media/simon/VERBATIM/Backup af billeder 14022018/Afslutning Triton 2011/DSC01269.JPG
+Total uploaded: 62
+Processing media item (63/88: /media/simon/VERBATIM/Backup af billeder 14022018/Afslutning Triton 2011/DSC01270.JPG
+Total uploaded: 63
+Processing media item (64/88: /media/simon/VERBATIM/Backup af billeder 14022018/Afslutning Triton 2011/DSC01271.JPG
+Total uploaded: 64
+Processing media item (65/88: /media/simon/VERBATIM/Backup af billeder 14022018/Afslutning Triton 2011/DSC01272.JPG
+Total uploaded: 65
+Processing media item (66/88: /media/simon/VERBATIM/Backup af billeder 14022018/Afslutning Triton 2011/DSC01273.JPG
+Total uploaded: 66
+Processing media item (67/88: /media/simon/VERBATIM/Backup af billeder 14022018/Afslutning Triton 2011/DSC01274.JPG
+Total uploaded: 67
+Processing media item (68/88: /media/simon/VERBATIM/Backup af billeder 14022018/Afslutning Triton 2011/DSC01275.JPG
+Total uploaded: 68
+Processing media item (69/88: /media/simon/VERBATIM/Backup af billeder 14022018/Afslutning Triton 2011/DSC01276.JPG
+Total uploaded: 69
+Processing media item (70/88: /media/simon/VERBATIM/Backup af billeder 14022018/Afslutning Triton 2011/DSC01277.JPG
+Total uploaded: 70
+Processing media item (71/88: /media/simon/VERBATIM/Backup af billeder 14022018/Afslutning Triton 2011/DSC01278.JPG
+Total uploaded: 71
+Processing media item (72/88: /media/simon/VERBATIM/Backup af billeder 14022018/Afslutning Triton 2011/DSC01279.JPG
+Total uploaded: 72
+Processing media item (73/88: /media/simon/VERBATIM/Backup af billeder 14022018/Afslutning Triton 2011/DSC01280.JPG
+Total uploaded: 73
+Processing media item (74/88: /media/simon/VERBATIM/Backup af billeder 14022018/Afslutning Triton 2011/DSC01281.JPG
+Total uploaded: 74
+Processing media item (75/88: /media/simon/VERBATIM/Backup af billeder 14022018/Afslutning Triton 2011/DSC01282.JPG
+Total uploaded: 75
+Processing media item (76/88: /media/simon/VERBATIM/Backup af billeder 14022018/Afslutning Triton 2011/DSC01283.JPG
+Total uploaded: 76
+Processing media item (77/88: /media/simon/VERBATIM/Backup af billeder 14022018/Afslutning Triton 2011/DSC01284.JPG
+Total uploaded: 77
+Processing media item (78/88: /media/simon/VERBATIM/Backup af billeder 14022018/Afslutning Triton 2011/DSC01285.JPG
+Total uploaded: 78
+Processing media item (79/88: /media/simon/VERBATIM/Backup af billeder 14022018/Afslutning Triton 2011/DSC01286.JPG
+Total uploaded: 79
+Processing media item (80/88: /media/simon/VERBATIM/Backup af billeder 14022018/Afslutning Triton 2011/DSC01287.JPG
+Total uploaded: 80
+Processing media item (81/88: /media/simon/VERBATIM/Backup af billeder 14022018/Afslutning Triton 2011/DSC01288.JPG
+Total uploaded: 81
+Processing media item (82/88: /media/simon/VERBATIM/Backup af billeder 14022018/Afslutning Triton 2011/DSC01289.JPG
+Total uploaded: 82
+Processing media item (83/88: /media/simon/VERBATIM/Backup af billeder 14022018/Afslutning Triton 2011/DSC01290.JPG
+Total uploaded: 83
+Processing media item (84/88: /media/simon/VERBATIM/Backup af billeder 14022018/Afslutning Triton 2011/DSC01291.JPG
+Total uploaded: 84
+Processing media item (85/88: /media/simon/VERBATIM/Backup af billeder 14022018/Afslutning Triton 2011/DSC01292.JPG
+Total uploaded: 85
+Processing media item (86/88: /media/simon/VERBATIM/Backup af billeder 14022018/Afslutning Triton 2011/DSC01293.JPG
+Total uploaded: 86
+Processing media item (87/88: /media/simon/VERBATIM/Backup af billeder 14022018/Afslutning Triton 2011/DSC01294.JPG
+Total uploaded: 87
+Processing media item (88/88: /media/simon/VERBATIM/Backup af billeder 14022018/Afslutning Triton 2011/DSC01295.JPG
+Total uploaded: 88
+Uploaded 88 media items to Afslutning Triton 2011
+Processing album: Afslutning triton 2009
+Processing media item (1/7: /media/simon/VERBATIM/Backup af billeder 14022018/Afslutning triton 2009/DSC01461.JPG
+Total uploaded: 89
+Processing media item (2/7: /media/simon/VERBATIM/Backup af billeder 14022018/Afslutning triton 2009/DSC01462.JPG
+Total uploaded: 90
+Processing media item (3/7: /media/simon/VERBATIM/Backup af billeder 14022018/Afslutning triton 2009/DSC01463.JPG
+Total uploaded: 91
+Processing media item (4/7: /media/simon/VERBATIM/Backup af billeder 14022018/Afslutning triton 2009/DSC01464.JPG
+Total uploaded: 92
+Processing media item (5/7: /media/simon/VERBATIM/Backup af billeder 14022018/Afslutning triton 2009/DSC01465.JPG
+Total uploaded: 93
+Processing media item (6/7: /media/simon/VERBATIM/Backup af billeder 14022018/Afslutning triton 2009/DSC04386.JPG
+Total uploaded: 94
+Processing media item (7/7: /media/simon/VERBATIM/Backup af billeder 14022018/Afslutning triton 2009/DSC04387.JPG
+Total uploaded: 95
+Uploaded 7 media items to Afslutning triton 2009
+Processing album: Anders ny båd 2015
+Processing media item (1/228: /media/simon/VERBATIM/Backup af billeder 14022018/Anders ny båd 2015/DSC08800.JPG
+Total uploaded: 96
+Processing media item (2/228: /media/simon/VERBATIM/Backup af billeder 14022018/Anders ny båd 2015/DSC08801.JPG
+Total uploaded: 97
+Processing media item (3/228: /media/simon/VERBATIM/Backup af billeder 14022018/Anders ny båd 2015/DSC08802.JPG
+Total uploaded: 98
+Processing media item (4/228: /media/simon/VERBATIM/Backup af billeder 14022018/Anders ny båd 2015/DSC08803.JPG
+Total uploaded: 99
+Processing media item (5/228: /media/simon/VERBATIM/Backup af billeder 14022018/Anders ny båd 2015/DSC08804.JPG
+Total uploaded: 100
+Processing media item (6/228: /media/simon/VERBATIM/Backup af billeder 14022018/Anders ny båd 2015/DSC08805.JPG
+Total uploaded: 101
+Processing media item (7/228: /media/simon/VERBATIM/Backup af billeder 14022018/Anders ny båd 2015/DSC08806.JPG
+Total uploaded: 102
+Processing media item (8/228: /media/simon/VERBATIM/Backup af billeder 14022018/Anders ny båd 2015/DSC08807.JPG
+Total uploaded: 103
+Processing media item (9/228: /media/simon/VERBATIM/Backup af billeder 14022018/Anders ny båd 2015/DSC08808.JPG
+Total uploaded: 104
+Processing media item (10/228: /media/simon/VERBATIM/Backup af billeder 14022018/Anders ny båd 2015/DSC08809.JPG
+Total uploaded: 105
+Processing media item (11/228: /media/simon/VERBATIM/Backup af billeder 14022018/Anders ny båd 2015/DSC08810.JPG
+Total uploaded: 106
+Processing media item (12/228: /media/simon/VERBATIM/Backup af billeder 14022018/Anders ny båd 2015/DSC08811.JPG
+Total uploaded: 107
+Processing media item (13/228: /media/simon/VERBATIM/Backup af billeder 14022018/Anders ny båd 2015/DSC08812.JPG
+Total uploaded: 108
+Processing media item (14/228: /media/simon/VERBATIM/Backup af billeder 14022018/Anders ny båd 2015/DSC08813.JPG
+Total uploaded: 109
+Processing media item (15/228: /media/simon/VERBATIM/Backup af billeder 14022018/Anders ny båd 2015/DSC08814.JPG
+Total uploaded: 110
+Processing media item (16/228: /media/simon/VERBATIM/Backup af billeder 14022018/Anders ny båd 2015/DSC08815.JPG
+Total uploaded: 111
+Processing media item (17/228: /media/simon/VERBATIM/Backup af billeder 14022018/Anders ny båd 2015/DSC08816.JPG
+Total uploaded: 112
+Processing media item (18/228: /media/simon/VERBATIM/Backup af billeder 14022018/Anders ny båd 2015/DSC08817.JPG
+Total uploaded: 113
+Processing media item (19/228: /media/simon/VERBATIM/Backup af billeder 14022018/Anders ny båd 2015/DSC08818.JPG
+Total uploaded: 114
+Processing media item (20/228: /media/simon/VERBATIM/Backup af billeder 14022018/Anders ny båd 2015/DSC08819.JPG
+Total uploaded: 115
+Processing media item (21/228: /media/simon/VERBATIM/Backup af billeder 14022018/Anders ny båd 2015/DSC08820.JPG
+Total uploaded: 116
+Processing media item (22/228: /media/simon/VERBATIM/Backup af billeder 14022018/Anders ny båd 2015/DSC08821.JPG
+Total uploaded: 117
+Processing media item (23/228: /media/simon/VERBATIM/Backup af billeder 14022018/Anders ny båd 2015/DSC08822.JPG
+Total uploaded: 118
+Processing media item (24/228: /media/simon/VERBATIM/Backup af billeder 14022018/Anders ny båd 2015/DSC08823.JPG
+Total uploaded: 119
+Processing media item (25/228: /media/simon/VERBATIM/Backup af billeder 14022018/Anders ny båd 2015/DSC08824.JPG
+Total uploaded: 120
+Processing media item (26/228: /media/simon/VERBATIM/Backup af billeder 14022018/Anders ny båd 2015/DSC08825.JPG
+Total uploaded: 121
+Processing media item (27/228: /media/simon/VERBATIM/Backup af billeder 14022018/Anders ny båd 2015/DSC08826.JPG
+Total uploaded: 122
+Processing media item (28/228: /media/simon/VERBATIM/Backup af billeder 14022018/Anders ny båd 2015/DSC08827.JPG
+Total uploaded: 123
+Processing media item (29/228: /media/simon/VERBATIM/Backup af billeder 14022018/Anders ny båd 2015/DSC08828.JPG
+Total uploaded: 124
+Processing media item (30/228: /media/simon/VERBATIM/Backup af billeder 14022018/Anders ny båd 2015/DSC08829.JPG
+Total uploaded: 125
+Processing media item (31/228: /media/simon/VERBATIM/Backup af billeder 14022018/Anders ny båd 2015/DSC08830.JPG
+Total uploaded: 126
+Processing media item (32/228: /media/simon/VERBATIM/Backup af billeder 14022018/Anders ny båd 2015/DSC08831.JPG
+Total uploaded: 127
+Processing media item (33/228: /media/simon/VERBATIM/Backup af billeder 14022018/Anders ny båd 2015/DSC08832.JPG
+Total uploaded: 128
+Processing media item (34/228: /media/simon/VERBATIM/Backup af billeder 14022018/Anders ny båd 2015/DSC08833.JPG
+Total uploaded: 129
+Processing media item (35/228: /media/simon/VERBATIM/Backup af billeder 14022018/Anders ny båd 2015/DSC08834.JPG
+Total uploaded: 130
+Processing media item (36/228: /media/simon/VERBATIM/Backup af billeder 14022018/Anders ny båd 2015/DSC08835.JPG
+Total uploaded: 131
+Processing media item (37/228: /media/simon/VERBATIM/Backup af billeder 14022018/Anders ny båd 2015/DSC08836.JPG
+Total uploaded: 132
+Processing media item (38/228: /media/simon/VERBATIM/Backup af billeder 14022018/Anders ny båd 2015/DSC08837.JPG
+Total uploaded: 133
+Processing media item (39/228: /media/simon/VERBATIM/Backup af billeder 14022018/Anders ny båd 2015/DSC08838.JPG
+Total uploaded: 134
+Processing media item (40/228: /media/simon/VERBATIM/Backup af billeder 14022018/Anders ny båd 2015/DSC08839.JPG
+Total uploaded: 135
+Processing media item (41/228: /media/simon/VERBATIM/Backup af billeder 14022018/Anders ny båd 2015/DSC08840.JPG
+Total uploaded: 136
+Processing media item (42/228: /media/simon/VERBATIM/Backup af billeder 14022018/Anders ny båd 2015/DSC08841.JPG
+Total uploaded: 137
+Processing media item (43/228: /media/simon/VERBATIM/Backup af billeder 14022018/Anders ny båd 2015/DSC08842.JPG
+Total uploaded: 138
+Processing media item (44/228: /media/simon/VERBATIM/Backup af billeder 14022018/Anders ny båd 2015/DSC08843.JPG
+Total uploaded: 139
+Processing media item (45/228: /media/simon/VERBATIM/Backup af billeder 14022018/Anders ny båd 2015/DSC08844.JPG
+Total uploaded: 140
+Processing media item (46/228: /media/simon/VERBATIM/Backup af billeder 14022018/Anders ny båd 2015/DSC08845.JPG
+Total uploaded: 141
+Processing media item (47/228: /media/simon/VERBATIM/Backup af billeder 14022018/Anders ny båd 2015/DSC08846.JPG
+Total uploaded: 142
+Processing media item (48/228: /media/simon/VERBATIM/Backup af billeder 14022018/Anders ny båd 2015/DSC08847.JPG
+Total uploaded: 143
+Processing media item (49/228: /media/simon/VERBATIM/Backup af billeder 14022018/Anders ny båd 2015/DSC08848.JPG
+Total uploaded: 144
+Processing media item (50/228: /media/simon/VERBATIM/Backup af billeder 14022018/Anders ny båd 2015/DSC08849.JPG
+Total uploaded: 145
+Processing media item (51/228: /media/simon/VERBATIM/Backup af billeder 14022018/Anders ny båd 2015/DSC08850.JPG
+Total uploaded: 146
+Processing media item (52/228: /media/simon/VERBATIM/Backup af billeder 14022018/Anders ny båd 2015/DSC08851.JPG
+Total uploaded: 147
+Processing media item (53/228: /media/simon/VERBATIM/Backup af billeder 14022018/Anders ny båd 2015/DSC08852.JPG
+Total uploaded: 148
+Processing media item (54/228: /media/simon/VERBATIM/Backup af billeder 14022018/Anders ny båd 2015/DSC08853.JPG
+Total uploaded: 149
+Processing media item (55/228: /media/simon/VERBATIM/Backup af billeder 14022018/Anders ny båd 2015/DSC08854.JPG
+Total uploaded: 150
+Processing media item (56/228: /media/simon/VERBATIM/Backup af billeder 14022018/Anders ny båd 2015/DSC08855.JPG
+Total uploaded: 151
+Processing media item (57/228: /media/simon/VERBATIM/Backup af billeder 14022018/Anders ny båd 2015/DSC08856.JPG
+Total uploaded: 152
+Processing media item (58/228: /media/simon/VERBATIM/Backup af billeder 14022018/Anders ny båd 2015/DSC08857.JPG
+Total uploaded: 153
+Processing media item (59/228: /media/simon/VERBATIM/Backup af billeder 14022018/Anders ny båd 2015/DSC08858.JPG
+Total uploaded: 154
+Processing media item (60/228: /media/simon/VERBATIM/Backup af billeder 14022018/Anders ny båd 2015/DSC08859.JPG
+Total uploaded: 155
+Processing media item (61/228: /media/simon/VERBATIM/Backup af billeder 14022018/Anders ny båd 2015/DSC08860.JPG
+Total uploaded: 156
+Processing media item (62/228: /media/simon/VERBATIM/Backup af billeder 14022018/Anders ny båd 2015/DSC08861.JPG
+Total uploaded: 157
+Processing media item (63/228: /media/simon/VERBATIM/Backup af billeder 14022018/Anders ny båd 2015/DSC08862.JPG
+Total uploaded: 158
+Processing media item (64/228: /media/simon/VERBATIM/Backup af billeder 14022018/Anders ny båd 2015/DSC08863.JPG
+Total uploaded: 159
+Processing media item (65/228: /media/simon/VERBATIM/Backup af billeder 14022018/Anders ny båd 2015/DSC08864.JPG
+Total uploaded: 160
+Processing media item (66/228: /media/simon/VERBATIM/Backup af billeder 14022018/Anders ny båd 2015/DSC08865.JPG
+Total uploaded: 161
+Processing media item (67/228: /media/simon/VERBATIM/Backup af billeder 14022018/Anders ny båd 2015/DSC08866.JPG
+Total uploaded: 162
+Processing media item (68/228: /media/simon/VERBATIM/Backup af billeder 14022018/Anders ny båd 2015/DSC08867.JPG
+Total uploaded: 163
+Processing media item (69/228: /media/simon/VERBATIM/Backup af billeder 14022018/Anders ny båd 2015/DSC08868.JPG
+Total uploaded: 164
+Processing media item (70/228: /media/simon/VERBATIM/Backup af billeder 14022018/Anders ny båd 2015/DSC08869.JPG
+Total uploaded: 165
+Processing media item (71/228: /media/simon/VERBATIM/Backup af billeder 14022018/Anders ny båd 2015/DSC08870.JPG
+Total uploaded: 166
+Processing media item (72/228: /media/simon/VERBATIM/Backup af billeder 14022018/Anders ny båd 2015/DSC08871.JPG
+Total uploaded: 167
+Processing media item (73/228: /media/simon/VERBATIM/Backup af billeder 14022018/Anders ny båd 2015/DSC08872.JPG
+Total uploaded: 168
+Processing media item (74/228: /media/simon/VERBATIM/Backup af billeder 14022018/Anders ny båd 2015/DSC08873.JPG
+Total uploaded: 169
+Processing media item (75/228: /media/simon/VERBATIM/Backup af billeder 14022018/Anders ny båd 2015/DSC08874.JPG
+Total uploaded: 170
+Processing media item (76/228: /media/simon/VERBATIM/Backup af billeder 14022018/Anders ny båd 2015/DSC08875.JPG
+Total uploaded: 171
+Processing media item (77/228: /media/simon/VERBATIM/Backup af billeder 14022018/Anders ny båd 2015/DSC08876.JPG
+Total uploaded: 172
+Processing media item (78/228: /media/simon/VERBATIM/Backup af billeder 14022018/Anders ny båd 2015/DSC08877.JPG
+Total uploaded: 173
+Processing media item (79/228: /media/simon/VERBATIM/Backup af billeder 14022018/Anders ny båd 2015/DSC08878.JPG
+Total uploaded: 174
+Processing media item (80/228: /media/simon/VERBATIM/Backup af billeder 14022018/Anders ny båd 2015/DSC08879.JPG
+Total uploaded: 175
+Processing media item (81/228: /media/simon/VERBATIM/Backup af billeder 14022018/Anders ny båd 2015/DSC08880.JPG
+Total uploaded: 176
+Processing media item (82/228: /media/simon/VERBATIM/Backup af billeder 14022018/Anders ny båd 2015/DSC08881.JPG
+Total uploaded: 177
+Processing media item (83/228: /media/simon/VERBATIM/Backup af billeder 14022018/Anders ny båd 2015/DSC08882.JPG
+Total uploaded: 178
+Processing media item (84/228: /media/simon/VERBATIM/Backup af billeder 14022018/Anders ny båd 2015/DSC08883.JPG
+Total uploaded: 179
+Processing media item (85/228: /media/simon/VERBATIM/Backup af billeder 14022018/Anders ny båd 2015/DSC08884.JPG
+Total uploaded: 180
+Processing media item (86/228: /media/simon/VERBATIM/Backup af billeder 14022018/Anders ny båd 2015/DSC08885.JPG
+Total uploaded: 181
+Processing media item (87/228: /media/simon/VERBATIM/Backup af billeder 14022018/Anders ny båd 2015/DSC08886.JPG
+Total uploaded: 182
+Processing media item (88/228: /media/simon/VERBATIM/Backup af billeder 14022018/Anders ny båd 2015/DSC08887.JPG
+Total uploaded: 183
+Processing media item (89/228: /media/simon/VERBATIM/Backup af billeder 14022018/Anders ny båd 2015/DSC08888.JPG
+Total uploaded: 184
+Processing media item (90/228: /media/simon/VERBATIM/Backup af billeder 14022018/Anders ny båd 2015/DSC08889.JPG
+Total uploaded: 185
+Processing media item (91/228: /media/simon/VERBATIM/Backup af billeder 14022018/Anders ny båd 2015/DSC08890.JPG
+Total uploaded: 186
+Processing media item (92/228: /media/simon/VERBATIM/Backup af billeder 14022018/Anders ny båd 2015/DSC08891.JPG
+Total uploaded: 187
+Processing media item (93/228: /media/simon/VERBATIM/Backup af billeder 14022018/Anders ny båd 2015/DSC08892.JPG
+Total uploaded: 188
+Processing media item (94/228: /media/simon/VERBATIM/Backup af billeder 14022018/Anders ny båd 2015/DSC08893.JPG
+Total uploaded: 189
+Processing media item (95/228: /media/simon/VERBATIM/Backup af billeder 14022018/Anders ny båd 2015/DSC08894.JPG
+Total uploaded: 190
+Processing media item (96/228: /media/simon/VERBATIM/Backup af billeder 14022018/Anders ny båd 2015/DSC08895.JPG
+Total uploaded: 191
+Processing media item (97/228: /media/simon/VERBATIM/Backup af billeder 14022018/Anders ny båd 2015/DSC08896.JPG
+Total uploaded: 192
+Processing media item (98/228: /media/simon/VERBATIM/Backup af billeder 14022018/Anders ny båd 2015/DSC08897.JPG
+Total uploaded: 193
+Processing media item (99/228: /media/simon/VERBATIM/Backup af billeder 14022018/Anders ny båd 2015/DSC08898.JPG
+Total uploaded: 194
+Processing media item (100/228: /media/simon/VERBATIM/Backup af billeder 14022018/Anders ny båd 2015/DSC08899.JPG
+Total uploaded: 195
+Processing media item (101/228: /media/simon/VERBATIM/Backup af billeder 14022018/Anders ny båd 2015/DSC08900.JPG
+Total uploaded: 196
+Processing media item (102/228: /media/simon/VERBATIM/Backup af billeder 14022018/Anders ny båd 2015/DSC08901.JPG
+Total uploaded: 197
+Processing media item (103/228: /media/simon/VERBATIM/Backup af billeder 14022018/Anders ny båd 2015/DSC08902.JPG
+Total uploaded: 198
+Processing media item (104/228: /media/simon/VERBATIM/Backup af billeder 14022018/Anders ny båd 2015/DSC08903.JPG
+Total uploaded: 199
+Processing media item (105/228: /media/simon/VERBATIM/Backup af billeder 14022018/Anders ny båd 2015/DSC08904.JPG
+Total uploaded: 200
+Processing media item (106/228: /media/simon/VERBATIM/Backup af billeder 14022018/Anders ny båd 2015/DSC08905.JPG
+Total uploaded: 201
+Processing media item (107/228: /media/simon/VERBATIM/Backup af billeder 14022018/Anders ny båd 2015/DSC08906.JPG
+Total uploaded: 202
+Processing media item (108/228: /media/simon/VERBATIM/Backup af billeder 14022018/Anders ny båd 2015/DSC08907.JPG
+Total uploaded: 203
+Processing media item (109/228: /media/simon/VERBATIM/Backup af billeder 14022018/Anders ny båd 2015/DSC08908.JPG
+Total uploaded: 204
+Processing media item (110/228: /media/simon/VERBATIM/Backup af billeder 14022018/Anders ny båd 2015/DSC08909.JPG
+Total uploaded: 205
+Processing media item (111/228: /media/simon/VERBATIM/Backup af billeder 14022018/Anders ny båd 2015/DSC08910.JPG
+Total uploaded: 206
+Processing media item (112/228: /media/simon/VERBATIM/Backup af billeder 14022018/Anders ny båd 2015/DSC08911.JPG
+Total uploaded: 207
+Processing media item (113/228: /media/simon/VERBATIM/Backup af billeder 14022018/Anders ny båd 2015/DSC08912.JPG
+Total uploaded: 208
+Processing media item (114/228: /media/simon/VERBATIM/Backup af billeder 14022018/Anders ny båd 2015/DSC08913.JPG
+Total uploaded: 209
+Processing media item (115/228: /media/simon/VERBATIM/Backup af billeder 14022018/Anders ny båd 2015/DSC08914.JPG
+Total uploaded: 210
+Processing media item (116/228: /media/simon/VERBATIM/Backup af billeder 14022018/Anders ny båd 2015/DSC08915.JPG
+Total uploaded: 211
+Processing media item (117/228: /media/simon/VERBATIM/Backup af billeder 14022018/Anders ny båd 2015/DSC08916.JPG
+Total uploaded: 212
+Processing media item (118/228: /media/simon/VERBATIM/Backup af billeder 14022018/Anders ny båd 2015/DSC08917.JPG
+Total uploaded: 213
+Processing media item (119/228: /media/simon/VERBATIM/Backup af billeder 14022018/Anders ny båd 2015/DSC08918.JPG
+Total uploaded: 214
+Processing media item (120/228: /media/simon/VERBATIM/Backup af billeder 14022018/Anders ny båd 2015/DSC08919.JPG
+Total uploaded: 215
+Processing media item (121/228: /media/simon/VERBATIM/Backup af billeder 14022018/Anders ny båd 2015/DSC08920.JPG
+Total uploaded: 216
+Processing media item (122/228: /media/simon/VERBATIM/Backup af billeder 14022018/Anders ny båd 2015/DSC08921.JPG
+Total uploaded: 217
+Processing media item (123/228: /media/simon/VERBATIM/Backup af billeder 14022018/Anders ny båd 2015/DSC08922.JPG
+Total uploaded: 218
+Processing media item (124/228: /media/simon/VERBATIM/Backup af billeder 14022018/Anders ny båd 2015/DSC08923.JPG
+Total uploaded: 219
+Processing media item (125/228: /media/simon/VERBATIM/Backup af billeder 14022018/Anders ny båd 2015/DSC08924.JPG
+Total uploaded: 220
+Processing media item (126/228: /media/simon/VERBATIM/Backup af billeder 14022018/Anders ny båd 2015/DSC08925.JPG
+Total uploaded: 221
+Processing media item (127/228: /media/simon/VERBATIM/Backup af billeder 14022018/Anders ny båd 2015/DSC08926.JPG
+Total uploaded: 222
+Processing media item (128/228: /media/simon/VERBATIM/Backup af billeder 14022018/Anders ny båd 2015/DSC08927.JPG
+Total uploaded: 223
+Processing media item (129/228: /media/simon/VERBATIM/Backup af billeder 14022018/Anders ny båd 2015/DSC08928.JPG
+Total uploaded: 224
+Processing media item (130/228: /media/simon/VERBATIM/Backup af billeder 14022018/Anders ny båd 2015/DSC08929.JPG
+Total uploaded: 225
+Processing media item (131/228: /media/simon/VERBATIM/Backup af billeder 14022018/Anders ny båd 2015/DSC08930.JPG
+Total uploaded: 226
+Processing media item (132/228: /media/simon/VERBATIM/Backup af billeder 14022018/Anders ny båd 2015/DSC08931.JPG
+Total uploaded: 227
+Processing media item (133/228: /media/simon/VERBATIM/Backup af billeder 14022018/Anders ny båd 2015/DSC08932.JPG
+Total uploaded: 228
+Processing media item (134/228: /media/simon/VERBATIM/Backup af billeder 14022018/Anders ny båd 2015/DSC08933.JPG
+Total uploaded: 229
+Processing media item (135/228: /media/simon/VERBATIM/Backup af billeder 14022018/Anders ny båd 2015/DSC08934.JPG
+Total uploaded: 230
+Processing media item (136/228: /media/simon/VERBATIM/Backup af billeder 14022018/Anders ny båd 2015/DSC08935.JPG
+Total uploaded: 231
+Processing media item (137/228: /media/simon/VERBATIM/Backup af billeder 14022018/Anders ny båd 2015/DSC08936.JPG
+Total uploaded: 232
+Processing media item (138/228: /media/simon/VERBATIM/Backup af billeder 14022018/Anders ny båd 2015/DSC08937.JPG
+Total uploaded: 233
+Processing media item (139/228: /media/simon/VERBATIM/Backup af billeder 14022018/Anders ny båd 2015/DSC08938.JPG
+Total uploaded: 234
+Processing media item (140/228: /media/simon/VERBATIM/Backup af billeder 14022018/Anders ny båd 2015/DSC08939.JPG
+Total uploaded: 235
+Processing media item (141/228: /media/simon/VERBATIM/Backup af billeder 14022018/Anders ny båd 2015/DSC08940.JPG
+Total uploaded: 236
+Processing media item (142/228: /media/simon/VERBATIM/Backup af billeder 14022018/Anders ny båd 2015/DSC08941.JPG
+Total uploaded: 237
+Processing media item (143/228: /media/simon/VERBATIM/Backup af billeder 14022018/Anders ny båd 2015/DSC08942.JPG
+Total uploaded: 238
+Processing media item (144/228: /media/simon/VERBATIM/Backup af billeder 14022018/Anders ny båd 2015/DSC08943.JPG
+Total uploaded: 239
+Processing media item (145/228: /media/simon/VERBATIM/Backup af billeder 14022018/Anders ny båd 2015/DSC08944.JPG
+Total uploaded: 240
+Processing media item (146/228: /media/simon/VERBATIM/Backup af billeder 14022018/Anders ny båd 2015/DSC08945.JPG
+Total uploaded: 241
+Processing media item (147/228: /media/simon/VERBATIM/Backup af billeder 14022018/Anders ny båd 2015/DSC08946.JPG
+Total uploaded: 242
+Processing media item (148/228: /media/simon/VERBATIM/Backup af billeder 14022018/Anders ny båd 2015/DSC08947.JPG
+Total uploaded: 243
+Processing media item (149/228: /media/simon/VERBATIM/Backup af billeder 14022018/Anders ny båd 2015/DSC08948.JPG
+Total uploaded: 244
+Processing media item (150/228: /media/simon/VERBATIM/Backup af billeder 14022018/Anders ny båd 2015/DSC08949.JPG
+Total uploaded: 245
+Processing media item (151/228: /media/simon/VERBATIM/Backup af billeder 14022018/Anders ny båd 2015/DSC08950.JPG
+Total uploaded: 246
+Processing media item (152/228: /media/simon/VERBATIM/Backup af billeder 14022018/Anders ny båd 2015/DSC08951.JPG
+Total uploaded: 247
+Processing media item (153/228: /media/simon/VERBATIM/Backup af billeder 14022018/Anders ny båd 2015/DSC08952.JPG
+Total uploaded: 248
+Processing media item (154/228: /media/simon/VERBATIM/Backup af billeder 14022018/Anders ny båd 2015/DSC08953.JPG
+Total uploaded: 249
+Processing media item (155/228: /media/simon/VERBATIM/Backup af billeder 14022018/Anders ny båd 2015/DSC08954.JPG
+Total uploaded: 250
+Processing media item (156/228: /media/simon/VERBATIM/Backup af billeder 14022018/Anders ny båd 2015/DSC08955.JPG
+Total uploaded: 251
+Processing media item (157/228: /media/simon/VERBATIM/Backup af billeder 14022018/Anders ny båd 2015/DSC08956.JPG
+Total uploaded: 252
+Processing media item (158/228: /media/simon/VERBATIM/Backup af billeder 14022018/Anders ny båd 2015/DSC08957.JPG
+Total uploaded: 253
+Processing media item (159/228: /media/simon/VERBATIM/Backup af billeder 14022018/Anders ny båd 2015/DSC08958.JPG
+Total uploaded: 254
+Processing media item (160/228: /media/simon/VERBATIM/Backup af billeder 14022018/Anders ny båd 2015/DSC08959.JPG
+Total uploaded: 255
+Processing media item (161/228: /media/simon/VERBATIM/Backup af billeder 14022018/Anders ny båd 2015/DSC08960.JPG
+Total uploaded: 256
+Processing media item (162/228: /media/simon/VERBATIM/Backup af billeder 14022018/Anders ny båd 2015/DSC08961.JPG
+Total uploaded: 257
+Processing media item (163/228: /media/simon/VERBATIM/Backup af billeder 14022018/Anders ny båd 2015/DSC08962.JPG
+Total uploaded: 258
+Processing media item (164/228: /media/simon/VERBATIM/Backup af billeder 14022018/Anders ny båd 2015/DSC08963.JPG
+Total uploaded: 259
+Processing media item (165/228: /media/simon/VERBATIM/Backup af billeder 14022018/Anders ny båd 2015/DSC08964.JPG
+Total uploaded: 260
+Processing media item (166/228: /media/simon/VERBATIM/Backup af billeder 14022018/Anders ny båd 2015/DSC08965.JPG
+Total uploaded: 261
+Processing media item (167/228: /media/simon/VERBATIM/Backup af billeder 14022018/Anders ny båd 2015/DSC08966.JPG
+Total uploaded: 262
+Processing media item (168/228: /media/simon/VERBATIM/Backup af billeder 14022018/Anders ny båd 2015/DSC08967.JPG
+Total uploaded: 263
+Processing media item (169/228: /media/simon/VERBATIM/Backup af billeder 14022018/Anders ny båd 2015/DSC08968.JPG
+Total uploaded: 264
+Processing media item (170/228: /media/simon/VERBATIM/Backup af billeder 14022018/Anders ny båd 2015/DSC08969.JPG
+Total uploaded: 265
+Processing media item (171/228: /media/simon/VERBATIM/Backup af billeder 14022018/Anders ny båd 2015/DSC08970.JPG
+Total uploaded: 266
+Processing media item (172/228: /media/simon/VERBATIM/Backup af billeder 14022018/Anders ny båd 2015/DSC08971.JPG
+Total uploaded: 267
+Processing media item (173/228: /media/simon/VERBATIM/Backup af billeder 14022018/Anders ny båd 2015/DSC08972.JPG
+Total uploaded: 268
+Processing media item (174/228: /media/simon/VERBATIM/Backup af billeder 14022018/Anders ny båd 2015/DSC08973.JPG
+Total uploaded: 269
+Processing media item (175/228: /media/simon/VERBATIM/Backup af billeder 14022018/Anders ny båd 2015/DSC08974.JPG
+Total uploaded: 270
+Processing media item (176/228: /media/simon/VERBATIM/Backup af billeder 14022018/Anders ny båd 2015/DSC08975.JPG
+Total uploaded: 271
+Processing media item (177/228: /media/simon/VERBATIM/Backup af billeder 14022018/Anders ny båd 2015/DSC08976.JPG
+Total uploaded: 272
+Processing media item (178/228: /media/simon/VERBATIM/Backup af billeder 14022018/Anders ny båd 2015/DSC08977.JPG
+Total uploaded: 273
+Processing media item (179/228: /media/simon/VERBATIM/Backup af billeder 14022018/Anders ny båd 2015/DSC08978.JPG
+Total uploaded: 274
+Processing media item (180/228: /media/simon/VERBATIM/Backup af billeder 14022018/Anders ny båd 2015/DSC08979.JPG
+Total uploaded: 275
+Processing media item (181/228: /media/simon/VERBATIM/Backup af billeder 14022018/Anders ny båd 2015/DSC08980.JPG
+Total uploaded: 276
+Processing media item (182/228: /media/simon/VERBATIM/Backup af billeder 14022018/Anders ny båd 2015/DSC08981.JPG
+Total uploaded: 277
+Processing media item (183/228: /media/simon/VERBATIM/Backup af billeder 14022018/Anders ny båd 2015/DSC08982.JPG
+Total uploaded: 278
+Processing media item (184/228: /media/simon/VERBATIM/Backup af billeder 14022018/Anders ny båd 2015/DSC08983.JPG
+Total uploaded: 279
+Processing media item (185/228: /media/simon/VERBATIM/Backup af billeder 14022018/Anders ny båd 2015/DSC08984.JPG
+Total uploaded: 280
+Processing media item (186/228: /media/simon/VERBATIM/Backup af billeder 14022018/Anders ny båd 2015/DSC08985.JPG
+Total uploaded: 281
+Processing media item (187/228: /media/simon/VERBATIM/Backup af billeder 14022018/Anders ny båd 2015/DSC08986.JPG
+Total uploaded: 282
+Processing media item (188/228: /media/simon/VERBATIM/Backup af billeder 14022018/Anders ny båd 2015/DSC08987.JPG
+Total uploaded: 283
+Processing media item (189/228: /media/simon/VERBATIM/Backup af billeder 14022018/Anders ny båd 2015/DSC08988.JPG
+Total uploaded: 284
+Processing media item (190/228: /media/simon/VERBATIM/Backup af billeder 14022018/Anders ny båd 2015/DSC08989.JPG
+Total uploaded: 285
+Processing media item (191/228: /media/simon/VERBATIM/Backup af billeder 14022018/Anders ny båd 2015/DSC08990.JPG
+Total uploaded: 286
+Processing media item (192/228: /media/simon/VERBATIM/Backup af billeder 14022018/Anders ny båd 2015/DSC08991.JPG
+Total uploaded: 287
+Processing media item (193/228: /media/simon/VERBATIM/Backup af billeder 14022018/Anders ny båd 2015/DSC08992.JPG
+Total uploaded: 288
+Processing media item (194/228: /media/simon/VERBATIM/Backup af billeder 14022018/Anders ny båd 2015/DSC08993.JPG
+Total uploaded: 289
+Processing media item (195/228: /media/simon/VERBATIM/Backup af billeder 14022018/Anders ny båd 2015/DSC08994.JPG
+Total uploaded: 290
+Processing media item (196/228: /media/simon/VERBATIM/Backup af billeder 14022018/Anders ny båd 2015/DSC08995.JPG
+Total uploaded: 291
+Processing media item (197/228: /media/simon/VERBATIM/Backup af billeder 14022018/Anders ny båd 2015/DSC08996.JPG
+Total uploaded: 292
+Processing media item (198/228: /media/simon/VERBATIM/Backup af billeder 14022018/Anders ny båd 2015/DSC08997.JPG
+Total uploaded: 293
+Processing media item (199/228: /media/simon/VERBATIM/Backup af billeder 14022018/Anders ny båd 2015/DSC08998.JPG
+Total uploaded: 294
+Processing media item (200/228: /media/simon/VERBATIM/Backup af billeder 14022018/Anders ny båd 2015/DSC08999.JPG
+Total uploaded: 295
+Processing media item (201/228: /media/simon/VERBATIM/Backup af billeder 14022018/Anders ny båd 2015/DSC09000.JPG
+Total uploaded: 296
+Processing media item (202/228: /media/simon/VERBATIM/Backup af billeder 14022018/Anders ny båd 2015/DSC09001.JPG
+Total uploaded: 297
+Processing media item (203/228: /media/simon/VERBATIM/Backup af billeder 14022018/Anders ny båd 2015/DSC09002.JPG
+Total uploaded: 298
+Processing media item (204/228: /media/simon/VERBATIM/Backup af billeder 14022018/Anders ny båd 2015/DSC09003.JPG
+Total uploaded: 299
+Processing media item (205/228: /media/simon/VERBATIM/Backup af billeder 14022018/Anders ny båd 2015/DSC09004.JPG
+Total uploaded: 300
+Processing media item (206/228: /media/simon/VERBATIM/Backup af billeder 14022018/Anders ny båd 2015/DSC09005.JPG
+Total uploaded: 301
+Processing media item (207/228: /media/simon/VERBATIM/Backup af billeder 14022018/Anders ny båd 2015/DSC09006.JPG
+Total uploaded: 302
+Processing media item (208/228: /media/simon/VERBATIM/Backup af billeder 14022018/Anders ny båd 2015/DSC09007.JPG
+Total uploaded: 303
+Processing media item (209/228: /media/simon/VERBATIM/Backup af billeder 14022018/Anders ny båd 2015/DSC09008.JPG
+Total uploaded: 304
+Processing media item (210/228: /media/simon/VERBATIM/Backup af billeder 14022018/Anders ny båd 2015/DSC09009.JPG
+Total uploaded: 305
+Processing media item (211/228: /media/simon/VERBATIM/Backup af billeder 14022018/Anders ny båd 2015/DSC09010.JPG
+Total uploaded: 306
+Processing media item (212/228: /media/simon/VERBATIM/Backup af billeder 14022018/Anders ny båd 2015/DSC09011.JPG
+Total uploaded: 307
+Processing media item (213/228: /media/simon/VERBATIM/Backup af billeder 14022018/Anders ny båd 2015/DSC09012.JPG
+Total uploaded: 308
+Processing media item (214/228: /media/simon/VERBATIM/Backup af billeder 14022018/Anders ny båd 2015/DSC09013.JPG
+Total uploaded: 309
+Processing media item (215/228: /media/simon/VERBATIM/Backup af billeder 14022018/Anders ny båd 2015/DSC09014.JPG
+Total uploaded: 310
+Processing media item (216/228: /media/simon/VERBATIM/Backup af billeder 14022018/Anders ny båd 2015/DSC09015.JPG
+Total uploaded: 311
+Processing media item (217/228: /media/simon/VERBATIM/Backup af billeder 14022018/Anders ny båd 2015/DSC09017.JPG
+Total uploaded: 312
+Processing media item (218/228: /media/simon/VERBATIM/Backup af billeder 14022018/Anders ny båd 2015/DSC09018.JPG
+Total uploaded: 313
+Processing media item (219/228: /media/simon/VERBATIM/Backup af billeder 14022018/Anders ny båd 2015/DSC09019.JPG
+Total uploaded: 314
+Processing media item (220/228: /media/simon/VERBATIM/Backup af billeder 14022018/Anders ny båd 2015/DSC09020.JPG
+Total uploaded: 315
+Processing media item (221/228: /media/simon/VERBATIM/Backup af billeder 14022018/Anders ny båd 2015/DSC09021.JPG
+Total uploaded: 316
+Processing media item (222/228: /media/simon/VERBATIM/Backup af billeder 14022018/Anders ny båd 2015/DSC09022.JPG
+Total uploaded: 317
+Processing media item (223/228: /media/simon/VERBATIM/Backup af billeder 14022018/Anders ny båd 2015/DSC09023.JPG
+Total uploaded: 318
+Processing media item (224/228: /media/simon/VERBATIM/Backup af billeder 14022018/Anders ny båd 2015/DSC09024.JPG
+Total uploaded: 319
+Processing media item (225/228: /media/simon/VERBATIM/Backup af billeder 14022018/Anders ny båd 2015/DSC09025.JPG
+Total uploaded: 320
+Processing media item (226/228: /media/simon/VERBATIM/Backup af billeder 14022018/Anders ny båd 2015/DSC09026.JPG
+Total uploaded: 321
+Processing media item (227/228: /media/simon/VERBATIM/Backup af billeder 14022018/Anders ny båd 2015/DSC09027.JPG
+Total uploaded: 322
+Processing media item (228/228: /media/simon/VERBATIM/Backup af billeder 14022018/Anders ny båd 2015/DSC09028.JPG
+Total uploaded: 323
+Uploaded 228 media items to Anders ny båd 2015
+Processing album: Andreas 18 års fødselsdag 2011
+Processing media item (1/19: /media/simon/VERBATIM/Backup af billeder 14022018/Andreas 18 års fødselsdag 2011/DSC03094.JPG
+Total uploaded: 324
+Processing media item (2/19: /media/simon/VERBATIM/Backup af billeder 14022018/Andreas 18 års fødselsdag 2011/DSC03095.JPG
+Total uploaded: 325
+Processing media item (3/19: /media/simon/VERBATIM/Backup af billeder 14022018/Andreas 18 års fødselsdag 2011/DSC03096.JPG
+Total uploaded: 326
+Processing media item (4/19: /media/simon/VERBATIM/Backup af billeder 14022018/Andreas 18 års fødselsdag 2011/DSC03097.JPG
+Total uploaded: 327
+Processing media item (5/19: /media/simon/VERBATIM/Backup af billeder 14022018/Andreas 18 års fødselsdag 2011/DSC03098.JPG
+Total uploaded: 328
+Processing media item (6/19: /media/simon/VERBATIM/Backup af billeder 14022018/Andreas 18 års fødselsdag 2011/DSC03099.JPG
+Total uploaded: 329
+Processing media item (7/19: /media/simon/VERBATIM/Backup af billeder 14022018/Andreas 18 års fødselsdag 2011/DSC03100.JPG
+Total uploaded: 330
+Processing media item (8/19: /media/simon/VERBATIM/Backup af billeder 14022018/Andreas 18 års fødselsdag 2011/DSC03101.JPG
+Total uploaded: 331
+Processing media item (9/19: /media/simon/VERBATIM/Backup af billeder 14022018/Andreas 18 års fødselsdag 2011/DSC03102.JPG
+Total uploaded: 332
+Processing media item (10/19: /media/simon/VERBATIM/Backup af billeder 14022018/Andreas 18 års fødselsdag 2011/DSC03103.JPG
+Total uploaded: 333
+Processing media item (11/19: /media/simon/VERBATIM/Backup af billeder 14022018/Andreas 18 års fødselsdag 2011/DSC03104.JPG
+Total uploaded: 334
+Processing media item (12/19: /media/simon/VERBATIM/Backup af billeder 14022018/Andreas 18 års fødselsdag 2011/DSC03105.JPG
+Total uploaded: 335
+Processing media item (13/19: /media/simon/VERBATIM/Backup af billeder 14022018/Andreas 18 års fødselsdag 2011/DSC03106.JPG
+Total uploaded: 336
+Processing media item (14/19: /media/simon/VERBATIM/Backup af billeder 14022018/Andreas 18 års fødselsdag 2011/DSC03107.JPG
+Total uploaded: 337
+Processing media item (15/19: /media/simon/VERBATIM/Backup af billeder 14022018/Andreas 18 års fødselsdag 2011/DSC03108.JPG
+Total uploaded: 338
+Processing media item (16/19: /media/simon/VERBATIM/Backup af billeder 14022018/Andreas 18 års fødselsdag 2011/DSC03109.JPG
+Total uploaded: 339
+Processing media item (17/19: /media/simon/VERBATIM/Backup af billeder 14022018/Andreas 18 års fødselsdag 2011/DSC03110.JPG
+Total uploaded: 340
+Processing media item (18/19: /media/simon/VERBATIM/Backup af billeder 14022018/Andreas 18 års fødselsdag 2011/DSC03111.JPG
+Total uploaded: 341
+Processing media item (19/19: /media/simon/VERBATIM/Backup af billeder 14022018/Andreas 18 års fødselsdag 2011/DSC03112.JPG
+Total uploaded: 342
+Uploaded 19 media items to Andreas 18 års fødselsdag 2011
+Processing album: Andreas konfirmation 290407
+Processing media item (1/69: /media/simon/VERBATIM/Backup af billeder 14022018/Andreas konfirmation 290407/DSC02213.JPG
+Total uploaded: 343
+Processing media item (2/69: /media/simon/VERBATIM/Backup af billeder 14022018/Andreas konfirmation 290407/DSC02214.JPG
+Total uploaded: 344
+Processing media item (3/69: /media/simon/VERBATIM/Backup af billeder 14022018/Andreas konfirmation 290407/DSC02215.JPG
+Total uploaded: 345
+Processing media item (4/69: /media/simon/VERBATIM/Backup af billeder 14022018/Andreas konfirmation 290407/DSC02216.JPG
+Total uploaded: 346
+Processing media item (5/69: /media/simon/VERBATIM/Backup af billeder 14022018/Andreas konfirmation 290407/DSC02217.JPG
+Total uploaded: 347
+Processing media item (6/69: /media/simon/VERBATIM/Backup af billeder 14022018/Andreas konfirmation 290407/DSC02218.JPG
+Total uploaded: 348
+Processing media item (7/69: /media/simon/VERBATIM/Backup af billeder 14022018/Andreas konfirmation 290407/DSC02219.JPG
+Total uploaded: 349
+Processing media item (8/69: /media/simon/VERBATIM/Backup af billeder 14022018/Andreas konfirmation 290407/DSC02220.JPG
+Total uploaded: 350
+Processing media item (9/69: /media/simon/VERBATIM/Backup af billeder 14022018/Andreas konfirmation 290407/DSC02221.JPG
+Total uploaded: 351
+Processing media item (10/69: /media/simon/VERBATIM/Backup af billeder 14022018/Andreas konfirmation 290407/DSC02222.JPG
+Total uploaded: 352
+Processing media item (11/69: /media/simon/VERBATIM/Backup af billeder 14022018/Andreas konfirmation 290407/DSC02223.JPG
+Total uploaded: 353
+Processing media item (12/69: /media/simon/VERBATIM/Backup af billeder 14022018/Andreas konfirmation 290407/DSC02224.JPG
+Total uploaded: 354
+Processing media item (13/69: /media/simon/VERBATIM/Backup af billeder 14022018/Andreas konfirmation 290407/DSC02225.JPG
+Total uploaded: 355
+Processing media item (14/69: /media/simon/VERBATIM/Backup af billeder 14022018/Andreas konfirmation 290407/DSC02226.JPG
+Total uploaded: 356
+Processing media item (15/69: /media/simon/VERBATIM/Backup af billeder 14022018/Andreas konfirmation 290407/DSC02227.JPG
+Total uploaded: 357
+Processing media item (16/69: /media/simon/VERBATIM/Backup af billeder 14022018/Andreas konfirmation 290407/DSC02228.JPG
+Total uploaded: 358
+Processing media item (17/69: /media/simon/VERBATIM/Backup af billeder 14022018/Andreas konfirmation 290407/DSC02229.JPG
+Total uploaded: 359
+Processing media item (18/69: /media/simon/VERBATIM/Backup af billeder 14022018/Andreas konfirmation 290407/DSC02230.JPG
+Total uploaded: 360
+Processing media item (19/69: /media/simon/VERBATIM/Backup af billeder 14022018/Andreas konfirmation 290407/DSC02231.JPG
+Total uploaded: 361
+Processing media item (20/69: /media/simon/VERBATIM/Backup af billeder 14022018/Andreas konfirmation 290407/DSC02232.JPG
+Total uploaded: 362
+Processing media item (21/69: /media/simon/VERBATIM/Backup af billeder 14022018/Andreas konfirmation 290407/DSC02233.JPG
+Total uploaded: 363
+Processing media item (22/69: /media/simon/VERBATIM/Backup af billeder 14022018/Andreas konfirmation 290407/DSC02234.JPG
+Total uploaded: 364
+Processing media item (23/69: /media/simon/VERBATIM/Backup af billeder 14022018/Andreas konfirmation 290407/DSC02235.JPG
+Total uploaded: 365
+Processing media item (24/69: /media/simon/VERBATIM/Backup af billeder 14022018/Andreas konfirmation 290407/DSC02236.JPG
+Total uploaded: 366
+Processing media item (25/69: /media/simon/VERBATIM/Backup af billeder 14022018/Andreas konfirmation 290407/DSC02237.JPG
+Total uploaded: 367
+Processing media item (26/69: /media/simon/VERBATIM/Backup af billeder 14022018/Andreas konfirmation 290407/DSC02238.JPG
+Total uploaded: 368
+Processing media item (27/69: /media/simon/VERBATIM/Backup af billeder 14022018/Andreas konfirmation 290407/DSC02239.JPG
+Total uploaded: 369
+Processing media item (28/69: /media/simon/VERBATIM/Backup af billeder 14022018/Andreas konfirmation 290407/DSC02240.JPG
+Total uploaded: 370
+Processing media item (29/69: /media/simon/VERBATIM/Backup af billeder 14022018/Andreas konfirmation 290407/DSC02241.JPG
+Total uploaded: 371
+Processing media item (30/69: /media/simon/VERBATIM/Backup af billeder 14022018/Andreas konfirmation 290407/DSC02242.JPG
+Total uploaded: 372
+Processing media item (31/69: /media/simon/VERBATIM/Backup af billeder 14022018/Andreas konfirmation 290407/DSC02243.JPG
+Total uploaded: 373
+Processing media item (32/69: /media/simon/VERBATIM/Backup af billeder 14022018/Andreas konfirmation 290407/DSC02244.JPG
+Total uploaded: 374
+Processing media item (33/69: /media/simon/VERBATIM/Backup af billeder 14022018/Andreas konfirmation 290407/DSC02245.JPG
+Total uploaded: 375
+Processing media item (34/69: /media/simon/VERBATIM/Backup af billeder 14022018/Andreas konfirmation 290407/DSC02246.JPG
+Total uploaded: 376
+Processing media item (35/69: /media/simon/VERBATIM/Backup af billeder 14022018/Andreas konfirmation 290407/DSC02247.JPG
+Total uploaded: 377
+Processing media item (36/69: /media/simon/VERBATIM/Backup af billeder 14022018/Andreas konfirmation 290407/DSC02248.JPG
+Total uploaded: 378
+Processing media item (37/69: /media/simon/VERBATIM/Backup af billeder 14022018/Andreas konfirmation 290407/DSC02249.JPG
+Total uploaded: 379
+Processing media item (38/69: /media/simon/VERBATIM/Backup af billeder 14022018/Andreas konfirmation 290407/DSC02250.JPG
+Total uploaded: 380
+Processing media item (39/69: /media/simon/VERBATIM/Backup af billeder 14022018/Andreas konfirmation 290407/DSC02251.JPG
+Total uploaded: 381
+Processing media item (40/69: /media/simon/VERBATIM/Backup af billeder 14022018/Andreas konfirmation 290407/DSC02252.JPG
+Total uploaded: 382
+Processing media item (41/69: /media/simon/VERBATIM/Backup af billeder 14022018/Andreas konfirmation 290407/DSC02253.JPG
+Total uploaded: 383
+Processing media item (42/69: /media/simon/VERBATIM/Backup af billeder 14022018/Andreas konfirmation 290407/DSC02254.JPG
+Total uploaded: 384
+Processing media item (43/69: /media/simon/VERBATIM/Backup af billeder 14022018/Andreas konfirmation 290407/DSC02255.JPG
+Total uploaded: 385
+Processing media item (44/69: /media/simon/VERBATIM/Backup af billeder 14022018/Andreas konfirmation 290407/DSC02256.JPG
+Total uploaded: 386
+Processing media item (45/69: /media/simon/VERBATIM/Backup af billeder 14022018/Andreas konfirmation 290407/DSC02258.JPG
+Total uploaded: 387
+Processing media item (46/69: /media/simon/VERBATIM/Backup af billeder 14022018/Andreas konfirmation 290407/DSC02259.JPG
+Total uploaded: 388
+Processing media item (47/69: /media/simon/VERBATIM/Backup af billeder 14022018/Andreas konfirmation 290407/DSC02260.JPG
+Total uploaded: 389
+Processing media item (48/69: /media/simon/VERBATIM/Backup af billeder 14022018/Andreas konfirmation 290407/DSC02261.JPG
+Total uploaded: 390
+Processing media item (49/69: /media/simon/VERBATIM/Backup af billeder 14022018/Andreas konfirmation 290407/DSC02262.JPG
+Total uploaded: 391
+Processing media item (50/69: /media/simon/VERBATIM/Backup af billeder 14022018/Andreas konfirmation 290407/DSC02263.JPG
+Total uploaded: 392
+Processing media item (51/69: /media/simon/VERBATIM/Backup af billeder 14022018/Andreas konfirmation 290407/DSC02264.JPG
+Total uploaded: 393
+Processing media item (52/69: /media/simon/VERBATIM/Backup af billeder 14022018/Andreas konfirmation 290407/DSC02265.JPG
+Total uploaded: 394
+Processing media item (53/69: /media/simon/VERBATIM/Backup af billeder 14022018/Andreas konfirmation 290407/DSC02266.JPG
+Total uploaded: 395
+Processing media item (54/69: /media/simon/VERBATIM/Backup af billeder 14022018/Andreas konfirmation 290407/DSC02267.JPG
+Total uploaded: 396
+Processing media item (55/69: /media/simon/VERBATIM/Backup af billeder 14022018/Andreas konfirmation 290407/DSC02268.JPG
+Total uploaded: 397
+Processing media item (56/69: /media/simon/VERBATIM/Backup af billeder 14022018/Andreas konfirmation 290407/DSC02269.JPG
+Total uploaded: 398
+Processing media item (57/69: /media/simon/VERBATIM/Backup af billeder 14022018/Andreas konfirmation 290407/DSC02270.JPG
+Total uploaded: 399
+Processing media item (58/69: /media/simon/VERBATIM/Backup af billeder 14022018/Andreas konfirmation 290407/DSC02271.JPG
+Total uploaded: 400
+Processing media item (59/69: /media/simon/VERBATIM/Backup af billeder 14022018/Andreas konfirmation 290407/DSC02272.JPG
+Total uploaded: 401
+Processing media item (60/69: /media/simon/VERBATIM/Backup af billeder 14022018/Andreas konfirmation 290407/DSC02273.JPG
+Total uploaded: 402
+Processing media item (61/69: /media/simon/VERBATIM/Backup af billeder 14022018/Andreas konfirmation 290407/DSC02274.JPG
+Total uploaded: 403
+Processing media item (62/69: /media/simon/VERBATIM/Backup af billeder 14022018/Andreas konfirmation 290407/DSC02275.JPG
+Total uploaded: 404
+Processing media item (63/69: /media/simon/VERBATIM/Backup af billeder 14022018/Andreas konfirmation 290407/DSC02276.JPG
+Total uploaded: 405
+Processing media item (64/69: /media/simon/VERBATIM/Backup af billeder 14022018/Andreas konfirmation 290407/DSC02277.JPG
+Total uploaded: 406
+Processing media item (65/69: /media/simon/VERBATIM/Backup af billeder 14022018/Andreas konfirmation 290407/DSC02278.JPG
+Total uploaded: 407
+Processing media item (66/69: /media/simon/VERBATIM/Backup af billeder 14022018/Andreas konfirmation 290407/DSC02279.JPG
+Total uploaded: 408
+Processing media item (67/69: /media/simon/VERBATIM/Backup af billeder 14022018/Andreas konfirmation 290407/DSC02280.JPG
+Total uploaded: 409
+Processing media item (68/69: /media/simon/VERBATIM/Backup af billeder 14022018/Andreas konfirmation 290407/DSC02281.JPG
+Total uploaded: 410
+Processing media item (69/69: /media/simon/VERBATIM/Backup af billeder 14022018/Andreas konfirmation 290407/MOV02257.MPG
+Total uploaded: 411
+Uploaded 69 media items to Andreas konfirmation 290407
+Processing album: Arbejde på Hus 2013
+Processing media item (1/13: /media/simon/VERBATIM/Backup af billeder 14022018/Arbejde på Hus 2013/DSC05228.JPG
+Total uploaded: 412
+Processing media item (2/13: /media/simon/VERBATIM/Backup af billeder 14022018/Arbejde på Hus 2013/DSC05229.JPG
+Total uploaded: 413
+Processing media item (3/13: /media/simon/VERBATIM/Backup af billeder 14022018/Arbejde på Hus 2013/DSC05360.JPG
+Total uploaded: 414
+Processing media item (4/13: /media/simon/VERBATIM/Backup af billeder 14022018/Arbejde på Hus 2013/DSC05361.JPG
+Total uploaded: 415
+Processing media item (5/13: /media/simon/VERBATIM/Backup af billeder 14022018/Arbejde på Hus 2013/DSC05362.JPG
+Total uploaded: 416
+Processing media item (6/13: /media/simon/VERBATIM/Backup af billeder 14022018/Arbejde på Hus 2013/DSC05363.JPG
+Total uploaded: 417
+Processing media item (7/13: /media/simon/VERBATIM/Backup af billeder 14022018/Arbejde på Hus 2013/DSC05364.JPG
+Total uploaded: 418
+Processing media item (8/13: /media/simon/VERBATIM/Backup af billeder 14022018/Arbejde på Hus 2013/DSC05365.JPG
+Total uploaded: 419
+Processing media item (9/13: /media/simon/VERBATIM/Backup af billeder 14022018/Arbejde på Hus 2013/DSC05366.JPG
+Total uploaded: 420
+Processing media item (10/13: /media/simon/VERBATIM/Backup af billeder 14022018/Arbejde på Hus 2013/DSC05509.JPG
+Total uploaded: 421
+Processing media item (11/13: /media/simon/VERBATIM/Backup af billeder 14022018/Arbejde på Hus 2013/DSC05510.JPG
+Total uploaded: 422
+Processing media item (12/13: /media/simon/VERBATIM/Backup af billeder 14022018/Arbejde på Hus 2013/DSC05511.JPG
+Total uploaded: 423
+Processing media item (13/13: /media/simon/VERBATIM/Backup af billeder 14022018/Arbejde på Hus 2013/DSC05512.JPG
+Total uploaded: 424
+Uploaded 13 media items to Arbejde på Hus 2013
+Processing album: Aros Junior cup 08
+Processing media item (1/3: /media/simon/VERBATIM/Backup af billeder 14022018/Aros Junior cup 08/DSC03415.JPG
+Total uploaded: 425
+Processing media item (2/3: /media/simon/VERBATIM/Backup af billeder 14022018/Aros Junior cup 08/DSC03416.JPG
+Total uploaded: 426
+Processing media item (3/3: /media/simon/VERBATIM/Backup af billeder 14022018/Aros Junior cup 08/DSC03417.JPG
+Total uploaded: 427
+Uploaded 3 media items to Aros Junior cup 08
+Processing album: Badminton 2008
+Processing media item (1/89: /media/simon/VERBATIM/Backup af billeder 14022018/Badminton 2008/12102008.jpg
+Total uploaded: 428
+Processing media item (2/89: /media/simon/VERBATIM/Backup af billeder 14022018/Badminton 2008/DSC00532.JPG
+Total uploaded: 429
+Processing media item (3/89: /media/simon/VERBATIM/Backup af billeder 14022018/Badminton 2008/DSC00533.JPG
+Total uploaded: 430
+Processing media item (4/89: /media/simon/VERBATIM/Backup af billeder 14022018/Badminton 2008/DSC00534.JPG
+Total uploaded: 431
+Processing media item (5/89: /media/simon/VERBATIM/Backup af billeder 14022018/Badminton 2008/DSC00535.JPG
+Total uploaded: 432
+Processing media item (6/89: /media/simon/VERBATIM/Backup af billeder 14022018/Badminton 2008/DSC00536.JPG
+Total uploaded: 433
+Processing media item (7/89: /media/simon/VERBATIM/Backup af billeder 14022018/Badminton 2008/DSC00537.JPG
+Total uploaded: 434
+Processing media item (8/89: /media/simon/VERBATIM/Backup af billeder 14022018/Badminton 2008/DSC00538.JPG
+Total uploaded: 435
+Processing media item (9/89: /media/simon/VERBATIM/Backup af billeder 14022018/Badminton 2008/DSC00539.JPG
+Total uploaded: 436
+Processing media item (10/89: /media/simon/VERBATIM/Backup af billeder 14022018/Badminton 2008/DSC00540.JPG
+Total uploaded: 437
+Processing media item (11/89: /media/simon/VERBATIM/Backup af billeder 14022018/Badminton 2008/DSC00541.JPG
+Total uploaded: 438
+Processing media item (12/89: /media/simon/VERBATIM/Backup af billeder 14022018/Badminton 2008/DSC00542.JPG
+Total uploaded: 439
+Processing media item (13/89: /media/simon/VERBATIM/Backup af billeder 14022018/Badminton 2008/DSC00543.JPG
+Total uploaded: 440
+Processing media item (14/89: /media/simon/VERBATIM/Backup af billeder 14022018/Badminton 2008/DSC00544.JPG
+Total uploaded: 441
+Processing media item (15/89: /media/simon/VERBATIM/Backup af billeder 14022018/Badminton 2008/DSC00545.JPG
+Total uploaded: 442
+Processing media item (16/89: /media/simon/VERBATIM/Backup af billeder 14022018/Badminton 2008/DSC00546.JPG
+Total uploaded: 443
+Processing media item (17/89: /media/simon/VERBATIM/Backup af billeder 14022018/Badminton 2008/DSC00547.JPG
+Total uploaded: 444
+Processing media item (18/89: /media/simon/VERBATIM/Backup af billeder 14022018/Badminton 2008/DSC00834.JPG
+Total uploaded: 445
+Processing media item (19/89: /media/simon/VERBATIM/Backup af billeder 14022018/Badminton 2008/DSC00835.JPG
+Total uploaded: 446
+Processing media item (20/89: /media/simon/VERBATIM/Backup af billeder 14022018/Badminton 2008/DSC00836.JPG
+Total uploaded: 447
+Processing media item (21/89: /media/simon/VERBATIM/Backup af billeder 14022018/Badminton 2008/DSC00837.JPG
+Total uploaded: 448
+Processing media item (22/89: /media/simon/VERBATIM/Backup af billeder 14022018/Badminton 2008/DSC00838.JPG
+Total uploaded: 449
+Processing media item (23/89: /media/simon/VERBATIM/Backup af billeder 14022018/Badminton 2008/DSC00839.JPG
+Total uploaded: 450
+Processing media item (24/89: /media/simon/VERBATIM/Backup af billeder 14022018/Badminton 2008/DSC00840.JPG
+Total uploaded: 451
+Processing media item (25/89: /media/simon/VERBATIM/Backup af billeder 14022018/Badminton 2008/DSC00841.JPG
+Total uploaded: 452
+Processing media item (26/89: /media/simon/VERBATIM/Backup af billeder 14022018/Badminton 2008/DSC00879.JPG
+Total uploaded: 453
+Processing media item (27/89: /media/simon/VERBATIM/Backup af billeder 14022018/Badminton 2008/DSC00880.JPG
+Total uploaded: 454
+Processing media item (28/89: /media/simon/VERBATIM/Backup af billeder 14022018/Badminton 2008/DSC00881.JPG
+Total uploaded: 455
+Processing media item (29/89: /media/simon/VERBATIM/Backup af billeder 14022018/Badminton 2008/DSC00882.JPG
+Total uploaded: 456
+Processing media item (30/89: /media/simon/VERBATIM/Backup af billeder 14022018/Badminton 2008/DSC00883.JPG
+Total uploaded: 457
+Processing media item (31/89: /media/simon/VERBATIM/Backup af billeder 14022018/Badminton 2008/DSC00899.JPG
+Total uploaded: 458
+Processing media item (32/89: /media/simon/VERBATIM/Backup af billeder 14022018/Badminton 2008/DSC01371.JPG
+Total uploaded: 459
+Processing media item (33/89: /media/simon/VERBATIM/Backup af billeder 14022018/Badminton 2008/DSC01372.JPG
+Total uploaded: 460
+Processing media item (34/89: /media/simon/VERBATIM/Backup af billeder 14022018/Badminton 2008/DSC01373.JPG
+Total uploaded: 461
+Processing media item (35/89: /media/simon/VERBATIM/Backup af billeder 14022018/Badminton 2008/DSC01374.JPG
+Total uploaded: 462
+Processing media item (36/89: /media/simon/VERBATIM/Backup af billeder 14022018/Badminton 2008/DSC01375.JPG
+Total uploaded: 463
+Processing media item (37/89: /media/simon/VERBATIM/Backup af billeder 14022018/Badminton 2008/DSC01376.JPG
+Total uploaded: 464
+Processing media item (38/89: /media/simon/VERBATIM/Backup af billeder 14022018/Badminton 2008/DSC01377.JPG
+Total uploaded: 465
+Processing media item (39/89: /media/simon/VERBATIM/Backup af billeder 14022018/Badminton 2008/DSC01378.JPG
+Total uploaded: 466
+Processing media item (40/89: /media/simon/VERBATIM/Backup af billeder 14022018/Badminton 2008/DSC01379.JPG
+Total uploaded: 467
+Processing media item (41/89: /media/simon/VERBATIM/Backup af billeder 14022018/Badminton 2008/DSC01380.JPG
+Total uploaded: 468
+Processing media item (42/89: /media/simon/VERBATIM/Backup af billeder 14022018/Badminton 2008/DSC01381.JPG
+Total uploaded: 469
+Processing media item (43/89: /media/simon/VERBATIM/Backup af billeder 14022018/Badminton 2008/DSC01382.JPG
+Total uploaded: 470
+Processing media item (44/89: /media/simon/VERBATIM/Backup af billeder 14022018/Badminton 2008/DSC01383.JPG
+Total uploaded: 471
+Processing media item (45/89: /media/simon/VERBATIM/Backup af billeder 14022018/Badminton 2008/DSC01384.JPG
+Total uploaded: 472
+Processing media item (46/89: /media/simon/VERBATIM/Backup af billeder 14022018/Badminton 2008/DSC01385.JPG
+Total uploaded: 473
+Processing media item (47/89: /media/simon/VERBATIM/Backup af billeder 14022018/Badminton 2008/DSC01386.JPG
+Total uploaded: 474
+Processing media item (48/89: /media/simon/VERBATIM/Backup af billeder 14022018/Badminton 2008/DSC01387.JPG
+Total uploaded: 475
+Processing media item (49/89: /media/simon/VERBATIM/Backup af billeder 14022018/Badminton 2008/DSC01388.JPG
+Total uploaded: 476
+Processing media item (50/89: /media/simon/VERBATIM/Backup af billeder 14022018/Badminton 2008/DSC01389.JPG
+Total uploaded: 477
+Processing media item (51/89: /media/simon/VERBATIM/Backup af billeder 14022018/Badminton 2008/DSC01390.JPG
+Total uploaded: 478
+Processing media item (52/89: /media/simon/VERBATIM/Backup af billeder 14022018/Badminton 2008/DSC01391.JPG
+Total uploaded: 479
+Processing media item (53/89: /media/simon/VERBATIM/Backup af billeder 14022018/Badminton 2008/DSC01392.JPG
+Total uploaded: 480
+Processing media item (54/89: /media/simon/VERBATIM/Backup af billeder 14022018/Badminton 2008/DSC01393.JPG
+Total uploaded: 481
+Processing media item (55/89: /media/simon/VERBATIM/Backup af billeder 14022018/Badminton 2008/DSC01394.JPG
+Total uploaded: 482
+Processing media item (56/89: /media/simon/VERBATIM/Backup af billeder 14022018/Badminton 2008/DSC01395.JPG
+Total uploaded: 483
+Processing media item (57/89: /media/simon/VERBATIM/Backup af billeder 14022018/Badminton 2008/DSC01396.JPG
+Total uploaded: 484
+Processing media item (58/89: /media/simon/VERBATIM/Backup af billeder 14022018/Badminton 2008/DSC01397.JPG
+Total uploaded: 485
+Processing media item (59/89: /media/simon/VERBATIM/Backup af billeder 14022018/Badminton 2008/DSC01398.JPG
+Total uploaded: 486
+Processing media item (60/89: /media/simon/VERBATIM/Backup af billeder 14022018/Badminton 2008/DSC01399.JPG
+Total uploaded: 487
+Processing media item (61/89: /media/simon/VERBATIM/Backup af billeder 14022018/Badminton 2008/DSC01400.JPG
+Total uploaded: 488
+Processing media item (62/89: /media/simon/VERBATIM/Backup af billeder 14022018/Badminton 2008/DSC01401.JPG
+Total uploaded: 489
+Processing media item (63/89: /media/simon/VERBATIM/Backup af billeder 14022018/Badminton 2008/DSC01402.JPG
+Total uploaded: 490
+Processing media item (64/89: /media/simon/VERBATIM/Backup af billeder 14022018/Badminton 2008/DSC01403.JPG
+Total uploaded: 491
+Processing media item (65/89: /media/simon/VERBATIM/Backup af billeder 14022018/Badminton 2008/DSC01404.JPG
+Total uploaded: 492
+Processing media item (66/89: /media/simon/VERBATIM/Backup af billeder 14022018/Badminton 2008/DSC01405.JPG
+Total uploaded: 493
+Processing media item (67/89: /media/simon/VERBATIM/Backup af billeder 14022018/Badminton 2008/DSC01406.JPG
+Total uploaded: 494
+Processing media item (68/89: /media/simon/VERBATIM/Backup af billeder 14022018/Badminton 2008/DSC01461.JPG
+Total uploaded: 495
+Processing media item (69/89: /media/simon/VERBATIM/Backup af billeder 14022018/Badminton 2008/DSC01462.JPG
+Total uploaded: 496
+Processing media item (70/89: /media/simon/VERBATIM/Backup af billeder 14022018/Badminton 2008/DSC01463.JPG
+Total uploaded: 497
+Processing media item (71/89: /media/simon/VERBATIM/Backup af billeder 14022018/Badminton 2008/DSC01464.JPG
+Total uploaded: 498
+Processing media item (72/89: /media/simon/VERBATIM/Backup af billeder 14022018/Badminton 2008/DSC01465.JPG
+Total uploaded: 499
+Processing media item (73/89: /media/simon/VERBATIM/Backup af billeder 14022018/Badminton 2008/DSC03415.JPG
+Total uploaded: 500
+Processing media item (74/89: /media/simon/VERBATIM/Backup af billeder 14022018/Badminton 2008/DSC03416.JPG
+Total uploaded: 501
+Processing media item (75/89: /media/simon/VERBATIM/Backup af billeder 14022018/Badminton 2008/DSC03417.JPG
+Total uploaded: 502
+Processing media item (76/89: /media/simon/VERBATIM/Backup af billeder 14022018/Badminton 2008/DSC04050.JPG
+Total uploaded: 503
+Processing media item (77/89: /media/simon/VERBATIM/Backup af billeder 14022018/Badminton 2008/DSC04099.JPG
+Total uploaded: 504
+Processing media item (78/89: /media/simon/VERBATIM/Backup af billeder 14022018/Badminton 2008/DSC04100.JPG
+Total uploaded: 505
+Processing media item (79/89: /media/simon/VERBATIM/Backup af billeder 14022018/Badminton 2008/DSC04101.JPG
+Total uploaded: 506
+Processing media item (80/89: /media/simon/VERBATIM/Backup af billeder 14022018/Badminton 2008/DSC04102.JPG
+Total uploaded: 507
+Processing media item (81/89: /media/simon/VERBATIM/Backup af billeder 14022018/Badminton 2008/DSC04103.JPG
+Total uploaded: 508
+Processing media item (82/89: /media/simon/VERBATIM/Backup af billeder 14022018/Badminton 2008/DSC04104.JPG
+Total uploaded: 509
+Processing media item (83/89: /media/simon/VERBATIM/Backup af billeder 14022018/Badminton 2008/DSC04105.JPG
+Total uploaded: 510
+Processing media item (84/89: /media/simon/VERBATIM/Backup af billeder 14022018/Badminton 2008/DSC04106.JPG
+Total uploaded: 511
+Processing media item (85/89: /media/simon/VERBATIM/Backup af billeder 14022018/Badminton 2008/DSC04107.JPG
+Total uploaded: 512
+Processing media item (86/89: /media/simon/VERBATIM/Backup af billeder 14022018/Badminton 2008/DSC04109.JPG
+Total uploaded: 513
+Processing media item (87/89: /media/simon/VERBATIM/Backup af billeder 14022018/Badminton 2008/S6000830.JPG
+Total uploaded: 514
+Processing media item (88/89: /media/simon/VERBATIM/Backup af billeder 14022018/Badminton 2008/S6000831.JPG
+Total uploaded: 515
+Processing media item (89/89: /media/simon/VERBATIM/Backup af billeder 14022018/Badminton 2008/S6000832.JPG
+Total uploaded: 516
+Uploaded 89 media items to Badminton 2008
+Processing album: Badminton 2009
+Processing media item (1/34: /media/simon/VERBATIM/Backup af billeder 14022018/Badminton 2009/25012009(001).jpg
+Total uploaded: 517
+Processing media item (2/34: /media/simon/VERBATIM/Backup af billeder 14022018/Badminton 2009/25012009.jpg
+Total uploaded: 518
+Processing media item (3/34: /media/simon/VERBATIM/Backup af billeder 14022018/Badminton 2009/DSC01300.JPG
+Total uploaded: 519
+Processing media item (4/34: /media/simon/VERBATIM/Backup af billeder 14022018/Badminton 2009/DSC01301.JPG
+Total uploaded: 520
+Processing media item (5/34: /media/simon/VERBATIM/Backup af billeder 14022018/Badminton 2009/DSC01302.JPG
+Total uploaded: 521
+Processing media item (6/34: /media/simon/VERBATIM/Backup af billeder 14022018/Badminton 2009/DSC01321.JPG
+Total uploaded: 522
+Processing media item (7/34: /media/simon/VERBATIM/Backup af billeder 14022018/Badminton 2009/DSC01322.JPG
+Total uploaded: 523
+Processing media item (8/34: /media/simon/VERBATIM/Backup af billeder 14022018/Badminton 2009/DSC01323.JPG
+Total uploaded: 524
+Processing media item (9/34: /media/simon/VERBATIM/Backup af billeder 14022018/Badminton 2009/DSC01324.JPG
+Total uploaded: 525
+Processing media item (10/34: /media/simon/VERBATIM/Backup af billeder 14022018/Badminton 2009/DSC01325.JPG
+Total uploaded: 526
+Processing media item (11/34: /media/simon/VERBATIM/Backup af billeder 14022018/Badminton 2009/DSC01326.JPG
+Total uploaded: 527
+Processing media item (12/34: /media/simon/VERBATIM/Backup af billeder 14022018/Badminton 2009/DSC01327.JPG
+Total uploaded: 528
+Processing media item (13/34: /media/simon/VERBATIM/Backup af billeder 14022018/Badminton 2009/DSC01328.JPG
+Total uploaded: 529
+Processing media item (14/34: /media/simon/VERBATIM/Backup af billeder 14022018/Badminton 2009/DSC01329.JPG
+Total uploaded: 530
+Processing media item (15/34: /media/simon/VERBATIM/Backup af billeder 14022018/Badminton 2009/DSC04386.JPG
+Total uploaded: 531
+Processing media item (16/34: /media/simon/VERBATIM/Backup af billeder 14022018/Badminton 2009/DSC04387.JPG
+Total uploaded: 532
+Processing media item (17/34: /media/simon/VERBATIM/Backup af billeder 14022018/Badminton 2009/DSC04956.JPG
+Total uploaded: 533
+Processing media item (18/34: /media/simon/VERBATIM/Backup af billeder 14022018/Badminton 2009/DSC04957.JPG
+Total uploaded: 534
+Processing media item (19/34: /media/simon/VERBATIM/Backup af billeder 14022018/Badminton 2009/DSC04958.JPG
+Total uploaded: 535
+Processing media item (20/34: /media/simon/VERBATIM/Backup af billeder 14022018/Badminton 2009/DSC04959.JPG
+Total uploaded: 536
+Processing media item (21/34: /media/simon/VERBATIM/Backup af billeder 14022018/Badminton 2009/DSC05009.JPG
+Total uploaded: 537
+Processing media item (22/34: /media/simon/VERBATIM/Backup af billeder 14022018/Badminton 2009/Kopi af DSC01290.JPG
+Total uploaded: 538
+Processing media item (23/34: /media/simon/VERBATIM/Backup af billeder 14022018/Badminton 2009/Kopi af DSC01291.JPG
+Total uploaded: 539
+Processing media item (24/34: /media/simon/VERBATIM/Backup af billeder 14022018/Badminton 2009/Kopi af DSC01292.JPG
+Total uploaded: 540
+Processing media item (25/34: /media/simon/VERBATIM/Backup af billeder 14022018/Badminton 2009/Kopi af DSC01293.JPG
+Total uploaded: 541
+Processing media item (26/34: /media/simon/VERBATIM/Backup af billeder 14022018/Badminton 2009/Kopi af DSC01294.JPG
+Total uploaded: 542
+Processing media item (27/34: /media/simon/VERBATIM/Backup af billeder 14022018/Badminton 2009/Kopi af DSC01295.JPG
+Total uploaded: 543
+Processing media item (28/34: /media/simon/VERBATIM/Backup af billeder 14022018/Badminton 2009/Kopi af DSC01296.JPG
+Total uploaded: 544
+Processing media item (29/34: /media/simon/VERBATIM/Backup af billeder 14022018/Badminton 2009/Kopi af DSC01297.JPG
+Total uploaded: 545
+Processing media item (30/34: /media/simon/VERBATIM/Backup af billeder 14022018/Badminton 2009/Kopi af DSC01298.JPG
+Total uploaded: 546
+Processing media item (31/34: /media/simon/VERBATIM/Backup af billeder 14022018/Badminton 2009/Kopi af DSC01299.JPG
+Total uploaded: 547
+Processing media item (32/34: /media/simon/VERBATIM/Backup af billeder 14022018/Badminton 2009/Kopi af DSC01300.JPG
+Total uploaded: 548
+Processing media item (33/34: /media/simon/VERBATIM/Backup af billeder 14022018/Badminton 2009/Kopi af DSC01301.JPG
+Total uploaded: 549
+Processing media item (34/34: /media/simon/VERBATIM/Backup af billeder 14022018/Badminton 2009/Kopi af DSC01302.JPG
+Total uploaded: 550
+Uploaded 34 media items to Badminton 2009
+Processing album: Badminton 2011
+Processing media item (1/53: /media/simon/VERBATIM/Backup af billeder 14022018/Badminton 2011/DSC00673.JPG
+Total uploaded: 551
+Processing media item (2/53: /media/simon/VERBATIM/Backup af billeder 14022018/Badminton 2011/DSC00674.JPG
+Total uploaded: 552
+Processing media item (3/53: /media/simon/VERBATIM/Backup af billeder 14022018/Badminton 2011/DSC00675.JPG
+Total uploaded: 553
+Processing media item (4/53: /media/simon/VERBATIM/Backup af billeder 14022018/Badminton 2011/DSC00772.JPG
+Total uploaded: 554
+Processing media item (5/53: /media/simon/VERBATIM/Backup af billeder 14022018/Badminton 2011/DSC00773.JPG
+Total uploaded: 555
+Processing media item (6/53: /media/simon/VERBATIM/Backup af billeder 14022018/Badminton 2011/DSC00774.JPG
+Total uploaded: 556
+Processing media item (7/53: /media/simon/VERBATIM/Backup af billeder 14022018/Badminton 2011/DSC00775.JPG
+Total uploaded: 557
+Processing media item (8/53: /media/simon/VERBATIM/Backup af billeder 14022018/Badminton 2011/DSC00776.JPG
+Total uploaded: 558
+Processing media item (9/53: /media/simon/VERBATIM/Backup af billeder 14022018/Badminton 2011/DSC00777.JPG
+Total uploaded: 559
+Processing media item (10/53: /media/simon/VERBATIM/Backup af billeder 14022018/Badminton 2011/DSC00778.JPG
+Total uploaded: 560
+Processing media item (11/53: /media/simon/VERBATIM/Backup af billeder 14022018/Badminton 2011/DSC00779.JPG
+Total uploaded: 561
+Processing media item (12/53: /media/simon/VERBATIM/Backup af billeder 14022018/Badminton 2011/DSC00780.JPG
+Total uploaded: 562
+Processing media item (13/53: /media/simon/VERBATIM/Backup af billeder 14022018/Badminton 2011/DSC00781.JPG
+Total uploaded: 563
+Processing media item (14/53: /media/simon/VERBATIM/Backup af billeder 14022018/Badminton 2011/DSC00782.JPG
+Total uploaded: 564
+Processing media item (15/53: /media/simon/VERBATIM/Backup af billeder 14022018/Badminton 2011/DSC00783.JPG
+Total uploaded: 565
+Processing media item (16/53: /media/simon/VERBATIM/Backup af billeder 14022018/Badminton 2011/DSC00784.JPG
+Total uploaded: 566
+Processing media item (17/53: /media/simon/VERBATIM/Backup af billeder 14022018/Badminton 2011/DSC00785.JPG
+Total uploaded: 567
+Processing media item (18/53: /media/simon/VERBATIM/Backup af billeder 14022018/Badminton 2011/DSC00786.JPG
+Total uploaded: 568
+Processing media item (19/53: /media/simon/VERBATIM/Backup af billeder 14022018/Badminton 2011/DSC00787.JPG
+Total uploaded: 569
+Processing media item (20/53: /media/simon/VERBATIM/Backup af billeder 14022018/Badminton 2011/DSC00788.JPG
+Total uploaded: 570
+Processing media item (21/53: /media/simon/VERBATIM/Backup af billeder 14022018/Badminton 2011/DSC00789.JPG
+Total uploaded: 571
+Processing media item (22/53: /media/simon/VERBATIM/Backup af billeder 14022018/Badminton 2011/DSC00790.JPG
+Total uploaded: 572
+Processing media item (23/53: /media/simon/VERBATIM/Backup af billeder 14022018/Badminton 2011/DSC00791.JPG
+Total uploaded: 573
+Processing media item (24/53: /media/simon/VERBATIM/Backup af billeder 14022018/Badminton 2011/DSC00792.JPG
+Total uploaded: 574
+Processing media item (25/53: /media/simon/VERBATIM/Backup af billeder 14022018/Badminton 2011/DSC00793.JPG
+Total uploaded: 575
+Processing media item (26/53: /media/simon/VERBATIM/Backup af billeder 14022018/Badminton 2011/DSC00794.JPG
+Total uploaded: 576
+Processing media item (27/53: /media/simon/VERBATIM/Backup af billeder 14022018/Badminton 2011/DSC00795.JPG
+Total uploaded: 577
+Processing media item (28/53: /media/simon/VERBATIM/Backup af billeder 14022018/Badminton 2011/DSC00796.JPG
+Total uploaded: 578
+Processing media item (29/53: /media/simon/VERBATIM/Backup af billeder 14022018/Badminton 2011/DSC00797.JPG
+Total uploaded: 579
+Processing media item (30/53: /media/simon/VERBATIM/Backup af billeder 14022018/Badminton 2011/DSC00798.JPG
+Total uploaded: 580
+Processing media item (31/53: /media/simon/VERBATIM/Backup af billeder 14022018/Badminton 2011/DSC00799.JPG
+Total uploaded: 581
+Processing media item (32/53: /media/simon/VERBATIM/Backup af billeder 14022018/Badminton 2011/DSC00800.JPG
+Total uploaded: 582
+Processing media item (33/53: /media/simon/VERBATIM/Backup af billeder 14022018/Badminton 2011/DSC00801.JPG
+Total uploaded: 583
+Processing media item (34/53: /media/simon/VERBATIM/Backup af billeder 14022018/Badminton 2011/DSC00802.JPG
+Total uploaded: 584
+Processing media item (35/53: /media/simon/VERBATIM/Backup af billeder 14022018/Badminton 2011/DSC00803.JPG
+Total uploaded: 585
+Processing media item (36/53: /media/simon/VERBATIM/Backup af billeder 14022018/Badminton 2011/DSC00804.JPG
+Total uploaded: 586
+Processing media item (37/53: /media/simon/VERBATIM/Backup af billeder 14022018/Badminton 2011/DSC00805.JPG
+Total uploaded: 587
+Processing media item (38/53: /media/simon/VERBATIM/Backup af billeder 14022018/Badminton 2011/DSC00806.JPG
+Total uploaded: 588
+Processing media item (39/53: /media/simon/VERBATIM/Backup af billeder 14022018/Badminton 2011/DSC00807.JPG
+Total uploaded: 589
+Processing media item (40/53: /media/simon/VERBATIM/Backup af billeder 14022018/Badminton 2011/DSC02088.JPG
+Total uploaded: 590
+Processing media item (41/53: /media/simon/VERBATIM/Backup af billeder 14022018/Badminton 2011/DSC02089.JPG
+Total uploaded: 591
+Processing media item (42/53: /media/simon/VERBATIM/Backup af billeder 14022018/Badminton 2011/DSC02090.JPG
+Total uploaded: 592
+Processing media item (43/53: /media/simon/VERBATIM/Backup af billeder 14022018/Badminton 2011/DSC02091.JPG
+Total uploaded: 593
+Processing media item (44/53: /media/simon/VERBATIM/Backup af billeder 14022018/Badminton 2011/DSC02092.JPG
+Taking a sleep. ZZZzzZZZzzz...
+Total uploaded: 594
+Processing media item (45/53: /media/simon/VERBATIM/Backup af billeder 14022018/Badminton 2011/DSC02093.JPG
+Taking a sleep. ZZZzzZZZzzz...
+Total uploaded: 595
+Processing media item (46/53: /media/simon/VERBATIM/Backup af billeder 14022018/Badminton 2011/DSC02094.JPG
+Taking a sleep. ZZZzzZZZzzz...
+Total uploaded: 596
+Processing media item (47/53: /media/simon/VERBATIM/Backup af billeder 14022018/Badminton 2011/DSC02095.JPG
+Taking a sleep. ZZZzzZZZzzz...
+Total uploaded: 597
+Processing media item (48/53: /media/simon/VERBATIM/Backup af billeder 14022018/Badminton 2011/DSC02096.JPG
+Taking a sleep. ZZZzzZZZzzz...
+Total uploaded: 598
+Processing media item (49/53: /media/simon/VERBATIM/Backup af billeder 14022018/Badminton 2011/DSC02097.JPG
+Taking a sleep. ZZZzzZZZzzz...
+Total uploaded: 599
+Processing media item (50/53: /media/simon/VERBATIM/Backup af billeder 14022018/Badminton 2011/DSC02098.JPG
+Taking a sleep. ZZZzzZZZzzz...
+Total uploaded: 600
+Processing media item (51/53: /media/simon/VERBATIM/Backup af billeder 14022018/Badminton 2011/DSC02099.JPG
+Taking a sleep. ZZZzzZZZzzz...
+Total uploaded: 601
+Processing media item (52/53: /media/simon/VERBATIM/Backup af billeder 14022018/Badminton 2011/DSC02100.JPG
+Taking a sleep. ZZZzzZZZzzz...
+Total uploaded: 602
+Processing media item (53/53: /media/simon/VERBATIM/Backup af billeder 14022018/Badminton 2011/DSC02101.JPG
+Taking a sleep. ZZZzzZZZzzz...
+Total uploaded: 603
+Uploaded 53 media items to Badminton 2011
+Processing album: Badminton DM julie
+Processing media item (1/10: /media/simon/VERBATIM/Backup af billeder 14022018/Badminton DM julie/DSC00300.JPG
+Taking a sleep. ZZZzzZZZzzz...
+Total uploaded: 604
+Processing media item (2/10: /media/simon/VERBATIM/Backup af billeder 14022018/Badminton DM julie/DSC00301.JPG
+Taking a sleep. ZZZzzZZZzzz...
+Total uploaded: 605
+Processing media item (3/10: /media/simon/VERBATIM/Backup af billeder 14022018/Badminton DM julie/DSC00302.JPG
+Taking a sleep. ZZZzzZZZzzz...
+Total uploaded: 606
+Processing media item (4/10: /media/simon/VERBATIM/Backup af billeder 14022018/Badminton DM julie/DSC00303.JPG
+Taking a sleep. ZZZzzZZZzzz...
+Total uploaded: 607
+Processing media item (5/10: /media/simon/VERBATIM/Backup af billeder 14022018/Badminton DM julie/DSC00306.JPG
+Taking a sleep. ZZZzzZZZzzz...
+Total uploaded: 608
+Processing media item (6/10: /media/simon/VERBATIM/Backup af billeder 14022018/Badminton DM julie/DSC00311.JPG
+Taking a sleep. ZZZzzZZZzzz...
+Total uploaded: 609
+Processing media item (7/10: /media/simon/VERBATIM/Backup af billeder 14022018/Badminton DM julie/DSC00312.JPG
+Taking a sleep. ZZZzzZZZzzz...
+Total uploaded: 610
+Processing media item (8/10: /media/simon/VERBATIM/Backup af billeder 14022018/Badminton DM julie/DSC00313.JPG
+Taking a sleep. ZZZzzZZZzzz...
+Total uploaded: 611
+Processing media item (9/10: /media/simon/VERBATIM/Backup af billeder 14022018/Badminton DM julie/DSC00314.JPG
+Taking a sleep. ZZZzzZZZzzz...
+Total uploaded: 612
+Processing media item (10/10: /media/simon/VERBATIM/Backup af billeder 14022018/Badminton DM julie/DSC00315.JPG
+Taking a sleep. ZZZzzZZZzzz...
+Total uploaded: 613
+Uploaded 10 media items to Badminton DM julie
+Processing album: Badminton Danish junior cup okt. 2008
+Processing media item (1/28: /media/simon/VERBATIM/Backup af billeder 14022018/Badminton Danish junior cup okt. 2008/DSC00851.JPG
+Taking a sleep. ZZZzzZZZzzz...
+Total uploaded: 614
+Processing media item (2/28: /media/simon/VERBATIM/Backup af billeder 14022018/Badminton Danish junior cup okt. 2008/DSC00852.JPG
+Taking a sleep. ZZZzzZZZzzz...
+Total uploaded: 615
+Processing media item (3/28: /media/simon/VERBATIM/Backup af billeder 14022018/Badminton Danish junior cup okt. 2008/DSC00853.JPG
+Taking a sleep. ZZZzzZZZzzz...
+Total uploaded: 616
+Processing media item (4/28: /media/simon/VERBATIM/Backup af billeder 14022018/Badminton Danish junior cup okt. 2008/DSC00854.JPG
+Taking a sleep. ZZZzzZZZzzz...
+Total uploaded: 617
+Processing media item (5/28: /media/simon/VERBATIM/Backup af billeder 14022018/Badminton Danish junior cup okt. 2008/DSC00855.JPG
+Taking a sleep. ZZZzzZZZzzz...
+Total uploaded: 618
+Processing media item (6/28: /media/simon/VERBATIM/Backup af billeder 14022018/Badminton Danish junior cup okt. 2008/DSC00856.JPG
+Taking a sleep. ZZZzzZZZzzz...
+Total uploaded: 619
+Processing media item (7/28: /media/simon/VERBATIM/Backup af billeder 14022018/Badminton Danish junior cup okt. 2008/DSC00857.JPG
+Taking a sleep. ZZZzzZZZzzz...
+Total uploaded: 620
+Processing media item (8/28: /media/simon/VERBATIM/Backup af billeder 14022018/Badminton Danish junior cup okt. 2008/DSC00858.JPG
+Taking a sleep. ZZZzzZZZzzz...
+Total uploaded: 621
+Processing media item (9/28: /media/simon/VERBATIM/Backup af billeder 14022018/Badminton Danish junior cup okt. 2008/DSC00859.JPG
+Taking a sleep. ZZZzzZZZzzz...
+Total uploaded: 622
+Processing media item (10/28: /media/simon/VERBATIM/Backup af billeder 14022018/Badminton Danish junior cup okt. 2008/DSC00860.JPG
+Taking a sleep. ZZZzzZZZzzz...
+Total uploaded: 623
+Processing media item (11/28: /media/simon/VERBATIM/Backup af billeder 14022018/Badminton Danish junior cup okt. 2008/DSC00861.JPG
+Taking a sleep. ZZZzzZZZzzz...
+Total uploaded: 624
+Processing media item (12/28: /media/simon/VERBATIM/Backup af billeder 14022018/Badminton Danish junior cup okt. 2008/DSC00862.JPG
+Taking a sleep. ZZZzzZZZzzz...
+Total uploaded: 625
+Processing media item (13/28: /media/simon/VERBATIM/Backup af billeder 14022018/Badminton Danish junior cup okt. 2008/DSC00863.JPG
+Taking a sleep. ZZZzzZZZzzz...
+Total uploaded: 626
+Processing media item (14/28: /media/simon/VERBATIM/Backup af billeder 14022018/Badminton Danish junior cup okt. 2008/DSC00864.JPG
+Taking a sleep. ZZZzzZZZzzz...
+Total uploaded: 627
+Processing media item (15/28: /media/simon/VERBATIM/Backup af billeder 14022018/Badminton Danish junior cup okt. 2008/DSC00865.JPG
+Taking a sleep. ZZZzzZZZzzz...
+Total uploaded: 628
+Processing media item (16/28: /media/simon/VERBATIM/Backup af billeder 14022018/Badminton Danish junior cup okt. 2008/DSC00866.JPG
+Taking a sleep. ZZZzzZZZzzz...
+Total uploaded: 629
+Processing media item (17/28: /media/simon/VERBATIM/Backup af billeder 14022018/Badminton Danish junior cup okt. 2008/DSC00867.JPG
+Taking a sleep. ZZZzzZZZzzz...
+Total uploaded: 630
+Processing media item (18/28: /media/simon/VERBATIM/Backup af billeder 14022018/Badminton Danish junior cup okt. 2008/DSC00868.JPG
+Taking a sleep. ZZZzzZZZzzz...
+Total uploaded: 631
+Processing media item (19/28: /media/simon/VERBATIM/Backup af billeder 14022018/Badminton Danish junior cup okt. 2008/DSC00869.JPG
+Taking a sleep. ZZZzzZZZzzz...
+Total uploaded: 632
+Processing media item (20/28: /media/simon/VERBATIM/Backup af billeder 14022018/Badminton Danish junior cup okt. 2008/DSC00870.JPG
+Taking a sleep. ZZZzzZZZzzz...
+Total uploaded: 633
+Processing media item (21/28: /media/simon/VERBATIM/Backup af billeder 14022018/Badminton Danish junior cup okt. 2008/DSC00873.JPG
+Taking a sleep. ZZZzzZZZzzz...
+Total uploaded: 634
+Processing media item (22/28: /media/simon/VERBATIM/Backup af billeder 14022018/Badminton Danish junior cup okt. 2008/DSC00874.JPG
+Taking a sleep. ZZZzzZZZzzz...
+Total uploaded: 635
+Processing media item (23/28: /media/simon/VERBATIM/Backup af billeder 14022018/Badminton Danish junior cup okt. 2008/DSC00875.JPG
+Taking a sleep. ZZZzzZZZzzz...
+Total uploaded: 636
+Processing media item (24/28: /media/simon/VERBATIM/Backup af billeder 14022018/Badminton Danish junior cup okt. 2008/DSC00876.JPG
+Taking a sleep. ZZZzzZZZzzz...
+Total uploaded: 637
+Processing media item (25/28: /media/simon/VERBATIM/Backup af billeder 14022018/Badminton Danish junior cup okt. 2008/DSC00877.JPG
+Taking a sleep. ZZZzzZZZzzz...
+Total uploaded: 638
+Processing media item (26/28: /media/simon/VERBATIM/Backup af billeder 14022018/Badminton Danish junior cup okt. 2008/DSC00878.JPG
+Taking a sleep. ZZZzzZZZzzz...
+Total uploaded: 639
+Processing media item (27/28: /media/simon/VERBATIM/Backup af billeder 14022018/Badminton Danish junior cup okt. 2008/MOV00871.MPG
+Taking a sleep. ZZZzzZZZzzz...
+Total uploaded: 640
+Processing media item (28/28: /media/simon/VERBATIM/Backup af billeder 14022018/Badminton Danish junior cup okt. 2008/MOV00872.MPG
+Taking a sleep. ZZZzzZZZzzz...
+Total uploaded: 641
+Uploaded 28 media items to Badminton Danish junior cup okt. 2008
+Processing album: Badminton Odense 2009
+Processing media item (1/17: /media/simon/VERBATIM/Backup af billeder 14022018/Badminton Odense 2009/DSC01354.JPG
+Taking a sleep. ZZZzzZZZzzz...
+Total uploaded: 642
+Processing media item (2/17: /media/simon/VERBATIM/Backup af billeder 14022018/Badminton Odense 2009/DSC01355.JPG
+Taking a sleep. ZZZzzZZZzzz...
+Total uploaded: 643
+Processing media item (3/17: /media/simon/VERBATIM/Backup af billeder 14022018/Badminton Odense 2009/DSC01356.JPG
+Taking a sleep. ZZZzzZZZzzz...
+Total uploaded: 644
+Processing media item (4/17: /media/simon/VERBATIM/Backup af billeder 14022018/Badminton Odense 2009/DSC01357.JPG
+Taking a sleep. ZZZzzZZZzzz...
+Total uploaded: 645
+Processing media item (5/17: /media/simon/VERBATIM/Backup af billeder 14022018/Badminton Odense 2009/DSC01358.JPG
+Taking a sleep. ZZZzzZZZzzz...
+Total uploaded: 646
+Processing media item (6/17: /media/simon/VERBATIM/Backup af billeder 14022018/Badminton Odense 2009/DSC01359.JPG
+Taking a sleep. ZZZzzZZZzzz...
+Total uploaded: 647
+Processing media item (7/17: /media/simon/VERBATIM/Backup af billeder 14022018/Badminton Odense 2009/DSC01360.JPG
+Taking a sleep. ZZZzzZZZzzz...
+Total uploaded: 648
+Processing media item (8/17: /media/simon/VERBATIM/Backup af billeder 14022018/Badminton Odense 2009/DSC01361.JPG
+Taking a sleep. ZZZzzZZZzzz...
+Total uploaded: 649
+Processing media item (9/17: /media/simon/VERBATIM/Backup af billeder 14022018/Badminton Odense 2009/DSC01362.JPG
+Taking a sleep. ZZZzzZZZzzz...
+Total uploaded: 650
+Processing media item (10/17: /media/simon/VERBATIM/Backup af billeder 14022018/Badminton Odense 2009/DSC01363.JPG
+Taking a sleep. ZZZzzZZZzzz...
+Total uploaded: 651
+Processing media item (11/17: /media/simon/VERBATIM/Backup af billeder 14022018/Badminton Odense 2009/DSC01364.JPG
+Taking a sleep. ZZZzzZZZzzz...
+Total uploaded: 652
+Processing media item (12/17: /media/simon/VERBATIM/Backup af billeder 14022018/Badminton Odense 2009/DSC01365.JPG
+Taking a sleep. ZZZzzZZZzzz...
+Total uploaded: 653
+Processing media item (13/17: /media/simon/VERBATIM/Backup af billeder 14022018/Badminton Odense 2009/DSC01366.JPG
+Taking a sleep. ZZZzzZZZzzz...
+Total uploaded: 654
+Processing media item (14/17: /media/simon/VERBATIM/Backup af billeder 14022018/Badminton Odense 2009/DSC01367.JPG
+Taking a sleep. ZZZzzZZZzzz...
+Total uploaded: 655
+Processing media item (15/17: /media/simon/VERBATIM/Backup af billeder 14022018/Badminton Odense 2009/DSC01368.JPG
+Taking a sleep. ZZZzzZZZzzz...
+Total uploaded: 656
+Processing media item (16/17: /media/simon/VERBATIM/Backup af billeder 14022018/Badminton Odense 2009/DSC01369.JPG
+Taking a sleep. ZZZzzZZZzzz...
+Total uploaded: 657
+Processing media item (17/17: /media/simon/VERBATIM/Backup af billeder 14022018/Badminton Odense 2009/DSC01370.JPG
+Taking a sleep. ZZZzzZZZzzz...
+Total uploaded: 658
+Uploaded 17 media items to Badminton Odense 2009
+Processing album: Badminton U19 arr. og U19 stævne
+Processing media item (1/95: /media/simon/VERBATIM/Backup af billeder 14022018/Badminton U19 arr. og U19 stævne/DSC01185.JPG
+Taking a sleep. ZZZzzZZZzzz...
+Total uploaded: 659
+Processing media item (2/95: /media/simon/VERBATIM/Backup af billeder 14022018/Badminton U19 arr. og U19 stævne/DSC01186.JPG
+Taking a sleep. ZZZzzZZZzzz...
+Total uploaded: 660
+Processing media item (3/95: /media/simon/VERBATIM/Backup af billeder 14022018/Badminton U19 arr. og U19 stævne/DSC01187.JPG
+Taking a sleep. ZZZzzZZZzzz...
+Total uploaded: 661
+Processing media item (4/95: /media/simon/VERBATIM/Backup af billeder 14022018/Badminton U19 arr. og U19 stævne/DSC01188.JPG
+Taking a sleep. ZZZzzZZZzzz...
+Total uploaded: 662
+Processing media item (5/95: /media/simon/VERBATIM/Backup af billeder 14022018/Badminton U19 arr. og U19 stævne/DSC01189.JPG
+Taking a sleep. ZZZzzZZZzzz...
+Total uploaded: 663
+Processing media item (6/95: /media/simon/VERBATIM/Backup af billeder 14022018/Badminton U19 arr. og U19 stævne/DSC01190.JPG
+Taking a sleep. ZZZzzZZZzzz...
+Total uploaded: 664
+Processing media item (7/95: /media/simon/VERBATIM/Backup af billeder 14022018/Badminton U19 arr. og U19 stævne/DSC01191.JPG
+Taking a sleep. ZZZzzZZZzzz...
+Total uploaded: 665
+Processing media item (8/95: /media/simon/VERBATIM/Backup af billeder 14022018/Badminton U19 arr. og U19 stævne/DSC01192.JPG
+Taking a sleep. ZZZzzZZZzzz...
+Total uploaded: 666
+Processing media item (9/95: /media/simon/VERBATIM/Backup af billeder 14022018/Badminton U19 arr. og U19 stævne/DSC01193.JPG
+Taking a sleep. ZZZzzZZZzzz...
+Total uploaded: 667
+Processing media item (10/95: /media/simon/VERBATIM/Backup af billeder 14022018/Badminton U19 arr. og U19 stævne/DSC01194.JPG
+Taking a sleep. ZZZzzZZZzzz...
+Total uploaded: 668
+Processing media item (11/95: /media/simon/VERBATIM/Backup af billeder 14022018/Badminton U19 arr. og U19 stævne/DSC01195.JPG
+Taking a sleep. ZZZzzZZZzzz...
+Total uploaded: 669
+Processing media item (12/95: /media/simon/VERBATIM/Backup af billeder 14022018/Badminton U19 arr. og U19 stævne/DSC01196.JPG
+Taking a sleep. ZZZzzZZZzzz...
+Total uploaded: 670
+Processing media item (13/95: /media/simon/VERBATIM/Backup af billeder 14022018/Badminton U19 arr. og U19 stævne/DSC01197.JPG
+Taking a sleep. ZZZzzZZZzzz...
+Total uploaded: 671
+Processing media item (14/95: /media/simon/VERBATIM/Backup af billeder 14022018/Badminton U19 arr. og U19 stævne/DSC01198.JPG
+Taking a sleep. ZZZzzZZZzzz...
+Total uploaded: 672
+Processing media item (15/95: /media/simon/VERBATIM/Backup af billeder 14022018/Badminton U19 arr. og U19 stævne/DSC01199.JPG
+Taking a sleep. ZZZzzZZZzzz...
+Total uploaded: 673
+Processing media item (16/95: /media/simon/VERBATIM/Backup af billeder 14022018/Badminton U19 arr. og U19 stævne/DSC01200.JPG
+Taking a sleep. ZZZzzZZZzzz...
+Total uploaded: 674
+Processing media item (17/95: /media/simon/VERBATIM/Backup af billeder 14022018/Badminton U19 arr. og U19 stævne/DSC01201.JPG
+Taking a sleep. ZZZzzZZZzzz...
+Total uploaded: 675
+Processing media item (18/95: /media/simon/VERBATIM/Backup af billeder 14022018/Badminton U19 arr. og U19 stævne/DSC01202.JPG
+Taking a sleep. ZZZzzZZZzzz...
+Total uploaded: 676
+Processing media item (19/95: /media/simon/VERBATIM/Backup af billeder 14022018/Badminton U19 arr. og U19 stævne/DSC01203.JPG
+Taking a sleep. ZZZzzZZZzzz...
+Total uploaded: 677
+Processing media item (20/95: /media/simon/VERBATIM/Backup af billeder 14022018/Badminton U19 arr. og U19 stævne/DSC01204.JPG
+Taking a sleep. ZZZzzZZZzzz...
+Total uploaded: 678
+Processing media item (21/95: /media/simon/VERBATIM/Backup af billeder 14022018/Badminton U19 arr. og U19 stævne/DSC01205.JPG
+Taking a sleep. ZZZzzZZZzzz...
+Total uploaded: 679
+Processing media item (22/95: /media/simon/VERBATIM/Backup af billeder 14022018/Badminton U19 arr. og U19 stævne/DSC01206.JPG
+Taking a sleep. ZZZzzZZZzzz...
+Total uploaded: 680
+Processing media item (23/95: /media/simon/VERBATIM/Backup af billeder 14022018/Badminton U19 arr. og U19 stævne/DSC01207.JPG
+Taking a sleep. ZZZzzZZZzzz...
+Total uploaded: 681
+Processing media item (24/95: /media/simon/VERBATIM/Backup af billeder 14022018/Badminton U19 arr. og U19 stævne/DSC01208.JPG
+Taking a sleep. ZZZzzZZZzzz...
+Total uploaded: 682
+Processing media item (25/95: /media/simon/VERBATIM/Backup af billeder 14022018/Badminton U19 arr. og U19 stævne/DSC01209.JPG
+Taking a sleep. ZZZzzZZZzzz...
+Total uploaded: 683
+Processing media item (26/95: /media/simon/VERBATIM/Backup af billeder 14022018/Badminton U19 arr. og U19 stævne/DSC01210.JPG
+Taking a sleep. ZZZzzZZZzzz...
+Total uploaded: 684
+Processing media item (27/95: /media/simon/VERBATIM/Backup af billeder 14022018/Badminton U19 arr. og U19 stævne/DSC01211.JPG
+Taking a sleep. ZZZzzZZZzzz...
+Total uploaded: 685
+Processing media item (28/95: /media/simon/VERBATIM/Backup af billeder 14022018/Badminton U19 arr. og U19 stævne/DSC01212.JPG
+Taking a sleep. ZZZzzZZZzzz...
+Total uploaded: 686
+Processing media item (29/95: /media/simon/VERBATIM/Backup af billeder 14022018/Badminton U19 arr. og U19 stævne/DSC01213.JPG
+Taking a sleep. ZZZzzZZZzzz...
+Total uploaded: 687
+Processing media item (30/95: /media/simon/VERBATIM/Backup af billeder 14022018/Badminton U19 arr. og U19 stævne/DSC01214.JPG
+Taking a sleep. ZZZzzZZZzzz...
+Total uploaded: 688
+Processing media item (31/95: /media/simon/VERBATIM/Backup af billeder 14022018/Badminton U19 arr. og U19 stævne/DSC01215.JPG
+Taking a sleep. ZZZzzZZZzzz...
+Total uploaded: 689
+Processing media item (32/95: /media/simon/VERBATIM/Backup af billeder 14022018/Badminton U19 arr. og U19 stævne/DSC01216.JPG
+Taking a sleep. ZZZzzZZZzzz...
+Total uploaded: 690
+Processing media item (33/95: /media/simon/VERBATIM/Backup af billeder 14022018/Badminton U19 arr. og U19 stævne/DSC01217.JPG
+Taking a sleep. ZZZzzZZZzzz...
+Total uploaded: 691
+Processing media item (34/95: /media/simon/VERBATIM/Backup af billeder 14022018/Badminton U19 arr. og U19 stævne/DSC01218.JPG
+Taking a sleep. ZZZzzZZZzzz...
+Total uploaded: 692
+Processing media item (35/95: /media/simon/VERBATIM/Backup af billeder 14022018/Badminton U19 arr. og U19 stævne/DSC01219.JPG
+Taking a sleep. ZZZzzZZZzzz...
+Total uploaded: 693
+Processing media item (36/95: /media/simon/VERBATIM/Backup af billeder 14022018/Badminton U19 arr. og U19 stævne/DSC01220.JPG
+Taking a sleep. ZZZzzZZZzzz...
+Total uploaded: 694
+Processing media item (37/95: /media/simon/VERBATIM/Backup af billeder 14022018/Badminton U19 arr. og U19 stævne/DSC01221.JPG
+Taking a sleep. ZZZzzZZZzzz...
+Total uploaded: 695
+Processing media item (38/95: /media/simon/VERBATIM/Backup af billeder 14022018/Badminton U19 arr. og U19 stævne/DSC01222.JPG
+Taking a sleep. ZZZzzZZZzzz...
+Total uploaded: 696
+Processing media item (39/95: /media/simon/VERBATIM/Backup af billeder 14022018/Badminton U19 arr. og U19 stævne/DSC01223.JPG
+Taking a sleep. ZZZzzZZZzzz...
+Total uploaded: 697
+Processing media item (40/95: /media/simon/VERBATIM/Backup af billeder 14022018/Badminton U19 arr. og U19 stævne/DSC01224.JPG
+Taking a sleep. ZZZzzZZZzzz...
+Total uploaded: 698
+Processing media item (41/95: /media/simon/VERBATIM/Backup af billeder 14022018/Badminton U19 arr. og U19 stævne/DSC01225.JPG
+Taking a sleep. ZZZzzZZZzzz...
+Total uploaded: 699
+Processing media item (42/95: /media/simon/VERBATIM/Backup af billeder 14022018/Badminton U19 arr. og U19 stævne/DSC01226.JPG
+Taking a sleep. ZZZzzZZZzzz...
+Total uploaded: 700
+Processing media item (43/95: /media/simon/VERBATIM/Backup af billeder 14022018/Badminton U19 arr. og U19 stævne/DSC01227.JPG
+Taking a sleep. ZZZzzZZZzzz...
+Total uploaded: 701
+Processing media item (44/95: /media/simon/VERBATIM/Backup af billeder 14022018/Badminton U19 arr. og U19 stævne/DSC01228.JPG
+Taking a sleep. ZZZzzZZZzzz...
+Total uploaded: 702
+Processing media item (45/95: /media/simon/VERBATIM/Backup af billeder 14022018/Badminton U19 arr. og U19 stævne/DSC01229.JPG
+Taking a sleep. ZZZzzZZZzzz...
+Total uploaded: 703
+Processing media item (46/95: /media/simon/VERBATIM/Backup af billeder 14022018/Badminton U19 arr. og U19 stævne/DSC01230.JPG
+Taking a sleep. ZZZzzZZZzzz...
+Total uploaded: 704
+Processing media item (47/95: /media/simon/VERBATIM/Backup af billeder 14022018/Badminton U19 arr. og U19 stævne/DSC01231.JPG
+Taking a sleep. ZZZzzZZZzzz...
+Total uploaded: 705
+Processing media item (48/95: /media/simon/VERBATIM/Backup af billeder 14022018/Badminton U19 arr. og U19 stævne/DSC01232.JPG
+Taking a sleep. ZZZzzZZZzzz...
+Total uploaded: 706
+Processing media item (49/95: /media/simon/VERBATIM/Backup af billeder 14022018/Badminton U19 arr. og U19 stævne/DSC01233.JPG
+Taking a sleep. ZZZzzZZZzzz...
+Total uploaded: 707
+Processing media item (50/95: /media/simon/VERBATIM/Backup af billeder 14022018/Badminton U19 arr. og U19 stævne/DSC01234.JPG
+Taking a sleep. ZZZzzZZZzzz...
+Total uploaded: 708
+Processing media item (51/95: /media/simon/VERBATIM/Backup af billeder 14022018/Badminton U19 arr. og U19 stævne/DSC01235.JPG
+Taking a sleep. ZZZzzZZZzzz...
+Total uploaded: 709
+Processing media item (52/95: /media/simon/VERBATIM/Backup af billeder 14022018/Badminton U19 arr. og U19 stævne/DSC01236.JPG
+Taking a sleep. ZZZzzZZZzzz...
+Total uploaded: 710
+Processing media item (53/95: /media/simon/VERBATIM/Backup af billeder 14022018/Badminton U19 arr. og U19 stævne/DSC01237.JPG
+Taking a sleep. ZZZzzZZZzzz...
+Total uploaded: 711
+Processing media item (54/95: /media/simon/VERBATIM/Backup af billeder 14022018/Badminton U19 arr. og U19 stævne/DSC01238.JPG
+Taking a sleep. ZZZzzZZZzzz...
+Total uploaded: 712
+Processing media item (55/95: /media/simon/VERBATIM/Backup af billeder 14022018/Badminton U19 arr. og U19 stævne/DSC01239.JPG
+Taking a sleep. ZZZzzZZZzzz...
+Total uploaded: 713
+Processing media item (56/95: /media/simon/VERBATIM/Backup af billeder 14022018/Badminton U19 arr. og U19 stævne/DSC01240.JPG
+Taking a sleep. ZZZzzZZZzzz...
+Total uploaded: 714
+Processing media item (57/95: /media/simon/VERBATIM/Backup af billeder 14022018/Badminton U19 arr. og U19 stævne/DSC01241.JPG
+Taking a sleep. ZZZzzZZZzzz...
+Total uploaded: 715
+Processing media item (58/95: /media/simon/VERBATIM/Backup af billeder 14022018/Badminton U19 arr. og U19 stævne/DSC01242.JPG
+Taking a sleep. ZZZzzZZZzzz...
+Total uploaded: 716
+Processing media item (59/95: /media/simon/VERBATIM/Backup af billeder 14022018/Badminton U19 arr. og U19 stævne/DSC01243.JPG
+Taking a sleep. ZZZzzZZZzzz...
+Total uploaded: 717
+Processing media item (60/95: /media/simon/VERBATIM/Backup af billeder 14022018/Badminton U19 arr. og U19 stævne/DSC01244.JPG
+Taking a sleep. ZZZzzZZZzzz...
+Total uploaded: 718
+Processing media item (61/95: /media/simon/VERBATIM/Backup af billeder 14022018/Badminton U19 arr. og U19 stævne/DSC01245.JPG
+Taking a sleep. ZZZzzZZZzzz...
+Total uploaded: 719
+Processing media item (62/95: /media/simon/VERBATIM/Backup af billeder 14022018/Badminton U19 arr. og U19 stævne/DSC01246.JPG
+Taking a sleep. ZZZzzZZZzzz...
+Total uploaded: 720
+Processing media item (63/95: /media/simon/VERBATIM/Backup af billeder 14022018/Badminton U19 arr. og U19 stævne/DSC01247.JPG
+Taking a sleep. ZZZzzZZZzzz...
+Total uploaded: 721
+Processing media item (64/95: /media/simon/VERBATIM/Backup af billeder 14022018/Badminton U19 arr. og U19 stævne/DSC01248.JPG
+Taking a sleep. ZZZzzZZZzzz...
+Total uploaded: 722
+Processing media item (65/95: /media/simon/VERBATIM/Backup af billeder 14022018/Badminton U19 arr. og U19 stævne/DSC01249.JPG
+Taking a sleep. ZZZzzZZZzzz...
+Total uploaded: 723
+Processing media item (66/95: /media/simon/VERBATIM/Backup af billeder 14022018/Badminton U19 arr. og U19 stævne/DSC01250.JPG
+Taking a sleep. ZZZzzZZZzzz...
+Total uploaded: 724
+Processing media item (67/95: /media/simon/VERBATIM/Backup af billeder 14022018/Badminton U19 arr. og U19 stævne/DSC01251.JPG
+Taking a sleep. ZZZzzZZZzzz...
+Total uploaded: 725
+Processing media item (68/95: /media/simon/VERBATIM/Backup af billeder 14022018/Badminton U19 arr. og U19 stævne/DSC01252.JPG
+Taking a sleep. ZZZzzZZZzzz...
+Total uploaded: 726
+Processing media item (69/95: /media/simon/VERBATIM/Backup af billeder 14022018/Badminton U19 arr. og U19 stævne/DSC01253.JPG
+Taking a sleep. ZZZzzZZZzzz...
+Total uploaded: 727
+Processing media item (70/95: /media/simon/VERBATIM/Backup af billeder 14022018/Badminton U19 arr. og U19 stævne/DSC01254.JPG
+Taking a sleep. ZZZzzZZZzzz...
+Total uploaded: 728
+Processing media item (71/95: /media/simon/VERBATIM/Backup af billeder 14022018/Badminton U19 arr. og U19 stævne/DSC01255.JPG
+Taking a sleep. ZZZzzZZZzzz...
+Total uploaded: 729
+Processing media item (72/95: /media/simon/VERBATIM/Backup af billeder 14022018/Badminton U19 arr. og U19 stævne/DSC01256.JPG
+Taking a sleep. ZZZzzZZZzzz...
+Total uploaded: 730
+Processing media item (73/95: /media/simon/VERBATIM/Backup af billeder 14022018/Badminton U19 arr. og U19 stævne/DSC01257.JPG
+Taking a sleep. ZZZzzZZZzzz...
+Total uploaded: 731
+Processing media item (74/95: /media/simon/VERBATIM/Backup af billeder 14022018/Badminton U19 arr. og U19 stævne/DSC01258.JPG
+Taking a sleep. ZZZzzZZZzzz...
+Total uploaded: 732
+Processing media item (75/95: /media/simon/VERBATIM/Backup af billeder 14022018/Badminton U19 arr. og U19 stævne/DSC01332.JPG
+Taking a sleep. ZZZzzZZZzzz...
+Total uploaded: 733
+Processing media item (76/95: /media/simon/VERBATIM/Backup af billeder 14022018/Badminton U19 arr. og U19 stævne/DSC01333.JPG
+Taking a sleep. ZZZzzZZZzzz...
+Total uploaded: 734
+Processing media item (77/95: /media/simon/VERBATIM/Backup af billeder 14022018/Badminton U19 arr. og U19 stævne/DSC01334.JPG
+Taking a sleep. ZZZzzZZZzzz...
+Total uploaded: 735
+Processing media item (78/95: /media/simon/VERBATIM/Backup af billeder 14022018/Badminton U19 arr. og U19 stævne/DSC01335.JPG
+Taking a sleep. ZZZzzZZZzzz...
+Total uploaded: 736
+Processing media item (79/95: /media/simon/VERBATIM/Backup af billeder 14022018/Badminton U19 arr. og U19 stævne/DSC01336.JPG
+Taking a sleep. ZZZzzZZZzzz...
+Total uploaded: 737
+Processing media item (80/95: /media/simon/VERBATIM/Backup af billeder 14022018/Badminton U19 arr. og U19 stævne/DSC01337.JPG
+Taking a sleep. ZZZzzZZZzzz...
+Total uploaded: 738
+Processing media item (81/95: /media/simon/VERBATIM/Backup af billeder 14022018/Badminton U19 arr. og U19 stævne/DSC01338.JPG
+Taking a sleep. ZZZzzZZZzzz...
+Total uploaded: 739
+Processing media item (82/95: /media/simon/VERBATIM/Backup af billeder 14022018/Badminton U19 arr. og U19 stævne/DSC01339.JPG
+Taking a sleep. ZZZzzZZZzzz...
+Total uploaded: 740
+Processing media item (83/95: /media/simon/VERBATIM/Backup af billeder 14022018/Badminton U19 arr. og U19 stævne/DSC01340.JPG
+Taking a sleep. ZZZzzZZZzzz...
+Total uploaded: 741
+Processing media item (84/95: /media/simon/VERBATIM/Backup af billeder 14022018/Badminton U19 arr. og U19 stævne/DSC01341.JPG
+Taking a sleep. ZZZzzZZZzzz...
+Total uploaded: 742
+Processing media item (85/95: /media/simon/VERBATIM/Backup af billeder 14022018/Badminton U19 arr. og U19 stævne/DSC01342.JPG
+Taking a sleep. ZZZzzZZZzzz...
+Total uploaded: 743
+Processing media item (86/95: /media/simon/VERBATIM/Backup af billeder 14022018/Badminton U19 arr. og U19 stævne/DSC01343.JPG
+Taking a sleep. ZZZzzZZZzzz...
+Total uploaded: 744
+Processing media item (87/95: /media/simon/VERBATIM/Backup af billeder 14022018/Badminton U19 arr. og U19 stævne/DSC01344.JPG
+Taking a sleep. ZZZzzZZZzzz...
+Total uploaded: 745
+Processing media item (88/95: /media/simon/VERBATIM/Backup af billeder 14022018/Badminton U19 arr. og U19 stævne/DSC01345.JPG
+Taking a sleep. ZZZzzZZZzzz...
+Total uploaded: 746
+Processing media item (89/95: /media/simon/VERBATIM/Backup af billeder 14022018/Badminton U19 arr. og U19 stævne/DSC01346.JPG
+Taking a sleep. ZZZzzZZZzzz...
+Total uploaded: 747
+Processing media item (90/95: /media/simon/VERBATIM/Backup af billeder 14022018/Badminton U19 arr. og U19 stævne/DSC01347.JPG
+Taking a sleep. ZZZzzZZZzzz...
+Total uploaded: 748
+Processing media item (91/95: /media/simon/VERBATIM/Backup af billeder 14022018/Badminton U19 arr. og U19 stævne/DSC01348.JPG
+Taking a sleep. ZZZzzZZZzzz...
+Total uploaded: 749
+Processing media item (92/95: /media/simon/VERBATIM/Backup af billeder 14022018/Badminton U19 arr. og U19 stævne/DSC01349.JPG
+Taking a sleep. ZZZzzZZZzzz...
+Total uploaded: 750
+Processing media item (93/95: /media/simon/VERBATIM/Backup af billeder 14022018/Badminton U19 arr. og U19 stævne/DSC01350.JPG
+Taking a sleep. ZZZzzZZZzzz...
+Total uploaded: 751
+Processing media item (94/95: /media/simon/VERBATIM/Backup af billeder 14022018/Badminton U19 arr. og U19 stævne/DSC01351.JPG
+Taking a sleep. ZZZzzZZZzzz...
+Total uploaded: 752
+Processing media item (95/95: /media/simon/VERBATIM/Backup af billeder 14022018/Badminton U19 arr. og U19 stævne/DSC01352.JPG
+Taking a sleep. ZZZzzZZZzzz...
+Total uploaded: 753
+Uploaded 95 media items to Badminton U19 arr. og U19 stævne
+Processing album: Badminton julen 05
+Processing media item (1/33: /media/simon/VERBATIM/Backup af billeder 14022018/Badminton julen 05/P1010041.JPG
+Taking a sleep. ZZZzzZZZzzz...
+Total uploaded: 754
+Processing media item (2/33: /media/simon/VERBATIM/Backup af billeder 14022018/Badminton julen 05/P1010042.JPG
+Taking a sleep. ZZZzzZZZzzz...
+Total uploaded: 755
+Processing media item (3/33: /media/simon/VERBATIM/Backup af billeder 14022018/Badminton julen 05/P1010043.JPG
+Taking a sleep. ZZZzzZZZzzz...
+Total uploaded: 756
+Processing media item (4/33: /media/simon/VERBATIM/Backup af billeder 14022018/Badminton julen 05/P1010044.JPG
+Taking a sleep. ZZZzzZZZzzz...
+Total uploaded: 757
+Processing media item (5/33: /media/simon/VERBATIM/Backup af billeder 14022018/Badminton julen 05/P1010045.JPG
+Taking a sleep. ZZZzzZZZzzz...
+Total uploaded: 758
+Processing media item (6/33: /media/simon/VERBATIM/Backup af billeder 14022018/Badminton julen 05/P1010046.JPG
+Taking a sleep. ZZZzzZZZzzz...
+Total uploaded: 759
+Processing media item (7/33: /media/simon/VERBATIM/Backup af billeder 14022018/Badminton julen 05/P1010047.JPG
+Taking a sleep. ZZZzzZZZzzz...
+Total uploaded: 760
+Processing media item (8/33: /media/simon/VERBATIM/Backup af billeder 14022018/Badminton julen 05/P1010048.JPG
+Taking a sleep. ZZZzzZZZzzz...
+Total uploaded: 761
+Processing media item (9/33: /media/simon/VERBATIM/Backup af billeder 14022018/Badminton julen 05/P1010049.JPG
+Taking a sleep. ZZZzzZZZzzz...
+Total uploaded: 762
+Processing media item (10/33: /media/simon/VERBATIM/Backup af billeder 14022018/Badminton julen 05/P1010050.JPG
+Taking a sleep. ZZZzzZZZzzz...
+Total uploaded: 763
+Processing media item (11/33: /media/simon/VERBATIM/Backup af billeder 14022018/Badminton julen 05/P1010051.JPG
+Taking a sleep. ZZZzzZZZzzz...
+Total uploaded: 764
+Processing media item (12/33: /media/simon/VERBATIM/Backup af billeder 14022018/Badminton julen 05/P1010052.JPG
+Taking a sleep. ZZZzzZZZzzz...
+Total uploaded: 765
+Processing media item (13/33: /media/simon/VERBATIM/Backup af billeder 14022018/Badminton julen 05/P1010053.JPG
+Taking a sleep. ZZZzzZZZzzz...
+Total uploaded: 766
+Processing media item (14/33: /media/simon/VERBATIM/Backup af billeder 14022018/Badminton julen 05/P1010054.JPG
+Taking a sleep. ZZZzzZZZzzz...
+Total uploaded: 767
+Processing media item (15/33: /media/simon/VERBATIM/Backup af billeder 14022018/Badminton julen 05/P1010055.JPG
+Taking a sleep. ZZZzzZZZzzz...
+Total uploaded: 768
+Processing media item (16/33: /media/simon/VERBATIM/Backup af billeder 14022018/Badminton julen 05/P1010056.JPG
+Taking a sleep. ZZZzzZZZzzz...
+Total uploaded: 769
+Processing media item (17/33: /media/simon/VERBATIM/Backup af billeder 14022018/Badminton julen 05/P1010057.JPG
+Taking a sleep. ZZZzzZZZzzz...
+Total uploaded: 770
+Processing media item (18/33: /media/simon/VERBATIM/Backup af billeder 14022018/Badminton julen 05/P1010058.JPG
+Taking a sleep. ZZZzzZZZzzz...
+Total uploaded: 771
+Processing media item (19/33: /media/simon/VERBATIM/Backup af billeder 14022018/Badminton julen 05/P1010059.JPG
+Taking a sleep. ZZZzzZZZzzz...
+Total uploaded: 772
+Processing media item (20/33: /media/simon/VERBATIM/Backup af billeder 14022018/Badminton julen 05/P1010060.JPG
+Taking a sleep. ZZZzzZZZzzz...
+Total uploaded: 773
+Processing media item (21/33: /media/simon/VERBATIM/Backup af billeder 14022018/Badminton julen 05/P1010061.JPG
+Taking a sleep. ZZZzzZZZzzz...
+Total uploaded: 774
+Processing media item (22/33: /media/simon/VERBATIM/Backup af billeder 14022018/Badminton julen 05/P1010062.JPG
+Taking a sleep. ZZZzzZZZzzz...
+Total uploaded: 775
+Processing media item (23/33: /media/simon/VERBATIM/Backup af billeder 14022018/Badminton julen 05/P1010063.JPG
+Taking a sleep. ZZZzzZZZzzz...
+Total uploaded: 776
+Processing media item (24/33: /media/simon/VERBATIM/Backup af billeder 14022018/Badminton julen 05/P1010064.JPG
+Taking a sleep. ZZZzzZZZzzz...
+Total uploaded: 777
+Processing media item (25/33: /media/simon/VERBATIM/Backup af billeder 14022018/Badminton julen 05/P1010065.JPG
+Taking a sleep. ZZZzzZZZzzz...
+Total uploaded: 778
+Processing media item (26/33: /media/simon/VERBATIM/Backup af billeder 14022018/Badminton julen 05/P1010066.JPG
+Taking a sleep. ZZZzzZZZzzz...
+Total uploaded: 779
+Processing media item (27/33: /media/simon/VERBATIM/Backup af billeder 14022018/Badminton julen 05/P1010067.JPG
+Taking a sleep. ZZZzzZZZzzz...
+Total uploaded: 780
+Processing media item (28/33: /media/simon/VERBATIM/Backup af billeder 14022018/Badminton julen 05/P1010068.JPG
+Taking a sleep. ZZZzzZZZzzz...
+Total uploaded: 781
+Processing media item (29/33: /media/simon/VERBATIM/Backup af billeder 14022018/Badminton julen 05/P1010069.JPG
+Taking a sleep. ZZZzzZZZzzz...
+Total uploaded: 782
+Processing media item (30/33: /media/simon/VERBATIM/Backup af billeder 14022018/Badminton julen 05/P1010070.JPG
+Taking a sleep. ZZZzzZZZzzz...
+Total uploaded: 783
+Processing media item (31/33: /media/simon/VERBATIM/Backup af billeder 14022018/Badminton julen 05/P1010071.JPG
+Taking a sleep. ZZZzzZZZzzz...
+Total uploaded: 784
+Processing media item (32/33: /media/simon/VERBATIM/Backup af billeder 14022018/Badminton julen 05/P1010072.JPG
+Taking a sleep. ZZZzzZZZzzz...
+Total uploaded: 785
+Processing media item (33/33: /media/simon/VERBATIM/Backup af billeder 14022018/Badminton julen 05/P1010091.JPG
+Taking a sleep. ZZZzzZZZzzz...
+Total uploaded: 786
+Uploaded 33 media items to Badminton julen 05
+Processing album: Badminton overnatning piger feb.07
+Processing media item (1/55: /media/simon/VERBATIM/Backup af billeder 14022018/Badminton overnatning piger feb.07/110307 001.jpg
+Taking a sleep. ZZZzzZZZzzz...
+Total uploaded: 787
+Processing media item (2/55: /media/simon/VERBATIM/Backup af billeder 14022018/Badminton overnatning piger feb.07/110307 002.jpg
+Taking a sleep. ZZZzzZZZzzz...
+Total uploaded: 788
+Processing media item (3/55: /media/simon/VERBATIM/Backup af billeder 14022018/Badminton overnatning piger feb.07/110307 003.jpg
+Taking a sleep. ZZZzzZZZzzz...
+Total uploaded: 789
+Processing media item (4/55: /media/simon/VERBATIM/Backup af billeder 14022018/Badminton overnatning piger feb.07/110307 004.jpg
+Taking a sleep. ZZZzzZZZzzz...
+Total uploaded: 790
+Processing media item (5/55: /media/simon/VERBATIM/Backup af billeder 14022018/Badminton overnatning piger feb.07/110307 005.jpg
+Taking a sleep. ZZZzzZZZzzz...
+Total uploaded: 791
+Processing media item (6/55: /media/simon/VERBATIM/Backup af billeder 14022018/Badminton overnatning piger feb.07/110307 006.jpg
+Taking a sleep. ZZZzzZZZzzz...
+Total uploaded: 792
+Processing media item (7/55: /media/simon/VERBATIM/Backup af billeder 14022018/Badminton overnatning piger feb.07/110307 007.jpg
+Taking a sleep. ZZZzzZZZzzz...
+Total uploaded: 793
+Processing media item (8/55: /media/simon/VERBATIM/Backup af billeder 14022018/Badminton overnatning piger feb.07/110307 008.jpg
+Taking a sleep. ZZZzzZZZzzz...
+Total uploaded: 794
+Processing media item (9/55: /media/simon/VERBATIM/Backup af billeder 14022018/Badminton overnatning piger feb.07/110307 009.jpg
+Taking a sleep. ZZZzzZZZzzz...
+Total uploaded: 795
+Processing media item (10/55: /media/simon/VERBATIM/Backup af billeder 14022018/Badminton overnatning piger feb.07/110307 010.jpg
+Taking a sleep. ZZZzzZZZzzz...
+Total uploaded: 796
+Processing media item (11/55: /media/simon/VERBATIM/Backup af billeder 14022018/Badminton overnatning piger feb.07/110307 011.jpg
+Taking a sleep. ZZZzzZZZzzz...
+Total uploaded: 797
+Processing media item (12/55: /media/simon/VERBATIM/Backup af billeder 14022018/Badminton overnatning piger feb.07/110307 012.jpg
+Taking a sleep. ZZZzzZZZzzz...
+Total uploaded: 798
+Processing media item (13/55: /media/simon/VERBATIM/Backup af billeder 14022018/Badminton overnatning piger feb.07/110307 013.jpg
+Taking a sleep. ZZZzzZZZzzz...
+Total uploaded: 799
+Processing media item (14/55: /media/simon/VERBATIM/Backup af billeder 14022018/Badminton overnatning piger feb.07/110307 014.jpg
+Taking a sleep. ZZZzzZZZzzz...
+Total uploaded: 800
+Processing media item (15/55: /media/simon/VERBATIM/Backup af billeder 14022018/Badminton overnatning piger feb.07/110307 015.jpg
+Taking a sleep. ZZZzzZZZzzz...
+Total uploaded: 801
+Processing media item (16/55: /media/simon/VERBATIM/Backup af billeder 14022018/Badminton overnatning piger feb.07/110307 016.jpg
+Traceback (most recent call last):
+  File "/home/simon/.pyenv/versions/week-by-week/lib/python3.6/site-packages/urllib3/connection.py", line 160, in _new_conn
+    (self._dns_host, self.port), self.timeout, **extra_kw
+  File "/home/simon/.pyenv/versions/week-by-week/lib/python3.6/site-packages/urllib3/util/connection.py", line 61, in create_connection
+    for res in socket.getaddrinfo(host, port, family, socket.SOCK_STREAM):
+  File "/home/simon/.pyenv/versions/3.6.7/lib/python3.6/socket.py", line 745, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+socket.gaierror: [Errno -3] Temporary failure in name resolution
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/simon/.pyenv/versions/week-by-week/lib/python3.6/site-packages/urllib3/connectionpool.py", line 677, in urlopen
+    chunked=chunked,
+  File "/home/simon/.pyenv/versions/week-by-week/lib/python3.6/site-packages/urllib3/connectionpool.py", line 381, in _make_request
+    self._validate_conn(conn)
+  File "/home/simon/.pyenv/versions/week-by-week/lib/python3.6/site-packages/urllib3/connectionpool.py", line 978, in _validate_conn
+    conn.connect()
+  File "/home/simon/.pyenv/versions/week-by-week/lib/python3.6/site-packages/urllib3/connection.py", line 309, in connect
+    conn = self._new_conn()
+  File "/home/simon/.pyenv/versions/week-by-week/lib/python3.6/site-packages/urllib3/connection.py", line 172, in _new_conn
+    self, "Failed to establish a new connection: %s" % e
+urllib3.exceptions.NewConnectionError: <urllib3.connection.HTTPSConnection object at 0x7f07c7b6cc50>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/simon/.pyenv/versions/week-by-week/lib/python3.6/site-packages/requests/adapters.py", line 449, in send
+    timeout=timeout
+  File "/home/simon/.pyenv/versions/week-by-week/lib/python3.6/site-packages/urllib3/connectionpool.py", line 727, in urlopen
+    method, url, error=e, _pool=self, _stacktrace=sys.exc_info()[2]
+  File "/home/simon/.pyenv/versions/week-by-week/lib/python3.6/site-packages/urllib3/util/retry.py", line 439, in increment
+    raise MaxRetryError(_pool, url, error or ResponseError(cause))
+urllib3.exceptions.MaxRetryError: HTTPSConnectionPool(host='photoslibrary.googleapis.com', port=443): Max retries exceeded with url: /v1/uploads (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f07c7b6cc50>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution',))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/simon/Projects/Week-by-week-learning/GooglePhotosUploadApp/create_albums_custom.py", line 152, in <module>
+    upload_file(file, album_id, credentials=credentials)
+  File "/home/simon/Projects/Week-by-week-learning/GooglePhotosUploadApp/create_albums_custom.py", line 78, in upload_file
+    response = requests.post(url, headers=headers, data=image_file)
+  File "/home/simon/.pyenv/versions/week-by-week/lib/python3.6/site-packages/requests/api.py", line 119, in post
+    return request('post', url, data=data, json=json, **kwargs)
+  File "/home/simon/.pyenv/versions/week-by-week/lib/python3.6/site-packages/requests/api.py", line 61, in request
+    return session.request(method=method, url=url, **kwargs)
+  File "/home/simon/.pyenv/versions/week-by-week/lib/python3.6/site-packages/requests/sessions.py", line 530, in request
+    resp = self.send(prep, **send_kwargs)
+  File "/home/simon/.pyenv/versions/week-by-week/lib/python3.6/site-packages/requests/sessions.py", line 643, in send
+    r = adapter.send(request, **kwargs)
+  File "/home/simon/.pyenv/versions/week-by-week/lib/python3.6/site-packages/requests/adapters.py", line 516, in send
+    raise ConnectionError(e, request=request)
+requests.exceptions.ConnectionError: HTTPSConnectionPool(host='photoslibrary.googleapis.com', port=443): Max retries exceeded with url: /v1/uploads (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f07c7b6cc50>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution',))
+
+Process finished with exit code 1
