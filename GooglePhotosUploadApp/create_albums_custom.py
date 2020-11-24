@@ -89,11 +89,6 @@ def upload_file(image_file, album_id, credentials):
             }
             service.mediaItems().batchCreate(body=upload_request).execute()
         except Exception as err:
-            # If the error is a rate limit or connection error,
-            # wait and try again.
-            # if isinstance(err, HttpError) and err.resp.get('content-type', '').startswith('application/json'):
-            #     reason = json.loads(err.content).get('error').get('errors')[0].get('reason')
-            #     print(reason)
 
             if isinstance(err, HttpError):
                 print("Taking a sleep. ZZZzzZZZzzz...")
@@ -104,13 +99,10 @@ def upload_file(image_file, album_id, credentials):
 
 if __name__ == '__main__':
 
-    # print("WARNING: THIS IS RUN ON TEST ALBUMS!!!")
-
     # Read the json file with the album names
     albums_fp = "./data/albums.json"
     albums_file = open(albums_fp, "r", encoding='utf-8')
     dict = json.load(albums_file)
-
 
     """
     iterate over each album name and create a photo album 
@@ -145,7 +137,9 @@ if __name__ == '__main__':
                 # Add images and video files to album
                 uploaded_media_items = 0
                 for file_i, file in enumerate(files_for_transfer):
+
                     print("Processing media item (" + str(file_i + 1) + "/" + str(len(files_for_transfer)) + ":", file)
+
                     # Create MediaItems
                     # Documentation: https://developers.google.com/photos/library/reference/rest/v1/mediaItems#MediaItem
                     credentials = pickle.load(open("token_photoslibrary_v1.pickle", "rb"))
@@ -165,24 +159,4 @@ if __name__ == '__main__':
         else:
             print(album_name, "is already transferred")
 
-"""
-TODO:
 
-FIX
-Processing media item (65/87: /media/simon/VERBATIM/Backup af billeder 14022018/Blandede billeder 2016/20161202_215111.jpg
-Processing media item (66/87: /media/simon/VERBATIM/Backup af billeder 14022018/Blandede billeder 2016/20161202_215117.jpg
-Processing media item (67/87: /media/simon/VERBATIM/Backup af billeder 14022018/Blandede billeder 2016/20161202_215132.mp4
-Processing media item (68/87: /media/simon/VERBATIM/Backup af billeder 14022018/Blandede billeder 2016/20161202_215236.mp4
-Processing media item (69/87: /media/simon/VERBATIM/Backup af billeder 14022018/Blandede billeder 2016/20161202_215325.mp4
-Processing media item (70/87: /media/simon/VERBATIM/Backup af billeder 14022018/Blandede billeder 2016/20161202_215439.jpg
-Traceback (most recent call last):
-  File "/home/simon/Projects/Week-by-week-learning/GooglePhotosUploadApp/create_albums.py", line 117, in <module>
-    upload_response = service.mediaItems().batchCreate(body=upload_request).execute()
-  File "/home/simon/.pyenv/versions/week-by-week/lib/python3.6/site-packages/googleapiclient/_helpers.py", line 134, in positional_wrapper
-    return wrapped(*args, **kwargs)
-  File "/home/simon/.pyenv/versions/week-by-week/lib/python3.6/site-packages/googleapiclient/http.py", line 907, in execute
-    raise HttpError(resp, content, uri=self.uri)
-googleapiclient.errors.HttpError: <HttpError 400 when requesting https://photoslibrary.googleapis.com/v1/mediaItems:batchCreate?alt=json returned "Request must contain a valid upload token.">
-
-Process finished with exit code 1
-"""
