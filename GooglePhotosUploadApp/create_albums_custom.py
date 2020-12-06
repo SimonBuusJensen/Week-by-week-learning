@@ -91,9 +91,11 @@ def upload_file(image_file, album_id, credentials):
         except Exception as err:
 
             if isinstance(err, HttpError):
+                print(err)
                 print("Taking a sleep. ZZZzzZZZzzz...")
                 time.sleep(30)
             else:
+                print(err)
                 raise
 
 
@@ -148,13 +150,12 @@ if __name__ == '__main__':
                     total_transferred += 1
                     print("Total uploaded:", total_transferred)
 
-
                 print("Uploaded", uploaded_media_items, "media items to", album_name)
                 if uploaded_media_items == dict[album_name]["videos"] + dict[album_name]["images"]:
                     dict[album_name]["status"] = TRANSFERRED
                 else:
                     dict[album_name]["status"] = FAILED
-                json.dump(dict, open(albums_fp, "w"), indent="\t")
+                json.dump(dict, open(albums_fp, "w", encoding='utf8'), indent="\t", )
 
         else:
             print(album_name, "is already transferred")
